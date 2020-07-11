@@ -23,6 +23,8 @@ Assume we are dealing with an environment which could only store integers within
 *
 ***********************************************************************************/
 
+package leetcode
+
 /**
  * 解法一：
  */

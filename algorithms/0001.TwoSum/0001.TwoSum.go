@@ -17,6 +17,8 @@ return [0, 1].
 *               
 ***********************************************************************************/
 
+package leetcode
+
 /**
  * 解法一：暴力法
  * 双层循环每两个不同元素相加的值与target比较
@@ -38,7 +40,7 @@ func twoSum(nums []int, target int) []int {
  * 利用map储存每个数组元素的值和索引，当target减掉当前数组元素的值在哈希表中存在的话，
  * 得出两个数组元素相加等于target，最后返回两个元素在数组中的索引
  */
-func twoSum(nums []int, target int) []int {
+func twoSumS2(nums []int, target int) []int {
     mp := make(map[int]int)
     
     for i, num := range(nums) {
