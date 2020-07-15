@@ -12,6 +12,7 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 209 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Golang](algorithms/0209.ReverseLinkedList/0209.ReverseLinkedList.go) | Easy | ✅ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Golang](algorithms/237.DeleteNodeInALinkedList/237.DeleteNodeInALinkedList.go) | Easy | ✅ |
+| 867 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/876.MiddleOfTheLinkedList/876.MiddleOfTheLinkedList.go) | Easy | ✅ |
 
 
 ## Topic
@@ -21,3 +22,4 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 209 | [ReverseLinkedList](https://leetcode.com/problems/reverse-linked-list/) | [Golang](algorithms/0209.ReverseLinkedList/0209.ReverseLinkedList.go) | Easy | ✅ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Golang](algorithms/237.DeleteNodeInALinkedList/237.DeleteNodeInALinkedList.go) | Easy | ✅ |
+| 867 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/876.MiddleOfTheLinkedList/876.MiddleOfTheLinkedList.go) | Easy | ✅ |

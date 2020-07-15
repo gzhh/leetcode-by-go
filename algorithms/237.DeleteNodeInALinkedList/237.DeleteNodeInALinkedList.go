@@ -30,6 +30,7 @@ Do not return anything from your function.
 **
 **********************************************************************************/
 
+package main
 
 /**
  * Definition for singly-linked list.
