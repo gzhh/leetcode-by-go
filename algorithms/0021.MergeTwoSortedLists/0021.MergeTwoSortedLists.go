@@ -61,7 +61,7 @@ func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
 解法二：递归
 分析此题的特点满足：函数输出可以作为输入，进而更新输入，直到两个链表都为空。
 */
-func mergeTwoLists(l1 *ListNode, l2 *ListNode) *ListNode {
+func mergeTwoLists2(l1 *ListNode, l2 *ListNode) *ListNode {
 	if l1 == nil {
 		return l2
 	}
