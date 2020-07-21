@@ -14,10 +14,11 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Golang](algorithms/0160.IntersectionOfTwoLinkedLists/0160.IntersectionOfTwoLinkedLists.go) | Easy | ✅ ✅ |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Golang](algorithms/0203.RemoveLinkedListElements/0203.RemoveLinkedListElements.go) | Easy | ✅ |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Golang](algorithms/0206.ReverseLinkedList/0206.ReverseLinkedList.go) | Easy | ✅ |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Golang](algorithms/0206.ReverseLinkedList/0206.ReverseLinkedList.go) | Easy | ✅ ✅ |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Golang](algorithms/0234.PalindromeLinkedList/0234.PalindromeLinkedList.go) | Easy | ✅ ✅ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Golang](algorithms/0237.DeleteNodeInALinkedList/0237.DeleteNodeInALinkedList.go) | Easy | |
 | 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
 
 
 ## Topic
@@ -29,7 +30,8 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Golang](algorithms/0160.IntersectionOfTwoLinkedLists/0160.IntersectionOfTwoLinkedLists.go) | Easy | ✅ ✅ |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Golang](algorithms/0203.RemoveLinkedListElements/0203.RemoveLinkedListElements.go) | Easy | ✅ |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Golang](algorithms/0206.ReverseLinkedList/0206.ReverseLinkedList.go) | Easy | ✅ |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Golang](algorithms/0206.ReverseLinkedList/0206.ReverseLinkedList.go) | Easy | ✅ ✅ |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Golang](algorithms/0234.PalindromeLinkedList/0234.PalindromeLinkedList.go) | Easy | ✅ ✅ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Golang](algorithms/0237.DeleteNodeInALinkedList/0237.DeleteNodeInALinkedList.go) | Easy | |
 | 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
