@@ -11,6 +11,7 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Golang](algorithms/0007.ReverseInteger/0007.ReverseInteger.go) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Golang](algorithms/0021.MergeTwoSortedLists/0021.MergeTwoSortedLists.go) | Easy | ✅ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang](algorithms/0083.RemoveDuplicatesFromSortedList/0083.RemoveDuplicatesFromSortedList.go) | Easy | ✅ |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Medium | ✅ ✅ |
@@ -43,6 +44,7 @@
 ### Tree
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Medium | ✅ ✅ |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](algorithms/0145.BinaryTreePostorderTraversal/0145.BinaryTreePostorderTraversal.go) | Hard | ✅ ✅ |
