@@ -7,20 +7,24 @@
 Reverse a singly linked list.
 
 Example:
-
 Input: 1->2->3->4->5->NULL
 Output: 5->4->3->2->1->NULL
-Follow up:
 
+Follow up:
 A linked list can be reversed either iteratively or recursively. Could you implement both?
 *
 ***********************************************************************************/
 
-package main
-
 /**
  * Definition for singly-linked list.
+ * type ListNode struct {
+ *     Val int
+ *     Next *ListNode
+ * }
  */
+
+package main
+
 type ListNode struct {
     Val int
     Next *ListNode
@@ -42,7 +46,7 @@ func reverseList(head *ListNode) *ListNode {
 /**
 解法二：迭代
  */
-func reverseList(head *ListNode) *ListNode {
+func reverseList2(head *ListNode) *ListNode {
 	var prev, cur, tmp *ListNode
 	cur = head
 	for cur != nil {

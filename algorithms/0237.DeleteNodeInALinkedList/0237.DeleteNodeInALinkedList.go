@@ -30,8 +30,6 @@ Do not return anything from your function.
 **
 **********************************************************************************/
 
-package main
-
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -39,6 +37,14 @@ package main
  *     Next *ListNode
  * }
  */
+
+package main
+
+type ListNode struct {
+    Val int
+    Next *ListNode
+}
+
 func deleteNode(node *ListNode) {
     *node = *node.Next
 }

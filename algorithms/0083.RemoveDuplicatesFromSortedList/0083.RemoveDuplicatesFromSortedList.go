@@ -16,8 +16,6 @@ Output: 1->2->3
 **
 **********************************************************************************/
 
-package main
-
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -25,6 +23,14 @@ package main
  *     Next *ListNode
  * }
  */
+
+
+package main
+
+type ListNode struct {
+	Val int
+	Next *ListNode
+}
 
 /*
 解法一：

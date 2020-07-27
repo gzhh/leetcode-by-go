@@ -24,8 +24,6 @@ Explanation: There is no cycle in the linked list.
 *
 ***********************************************************************************/
 
-package leetcode
-
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -33,6 +31,13 @@ package leetcode
  *     Next *ListNode
  * }
  */
+
+package leetcode
+
+type ListNode struct {
+	Val int
+	Next *ListNode
+}
 
 /**
 题意：

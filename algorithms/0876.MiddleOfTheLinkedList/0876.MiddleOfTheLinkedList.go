@@ -24,8 +24,6 @@ The number of nodes in the given list will be between 1 and 100.
 **
 **********************************************************************************/
 
-package main
-
 /**
  * Definition for singly-linked list.
  * type ListNode struct {
@@ -33,6 +31,13 @@ package main
  *     Next *ListNode
  * }
  */
+
+package main
+
+type ListNode struct {
+	Val int
+	Next *ListNode
+}
 
 /**
 解法一：使用快慢指针，慢指针一次走一步，快指针一次走两步，若快指针走到头，
