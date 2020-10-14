@@ -58,5 +58,5 @@
 
 ### String
 | # | Title | Solution | Difficulty | Importantly |
-|--- | --- | ---| --- | --- |g
+|--- | --- | ---| --- | --- |
 | 344 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | [Golang](algorithms/0344.ReverseString/0344.ReverseString.go) | Easy | ✅ |
