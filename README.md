@@ -69,3 +69,4 @@
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Golang](algorithms/0098.ValidateBinarySearchTree/0098.ValidateBinarySearchTree.go) | Medium | ✅ ✅ |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Golang](algorithms/0129.SumRootToLeafNumbers/0129.SumRootToLeafNumbers.go) | Medium | ✅ ✅ |
