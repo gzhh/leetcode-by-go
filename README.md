@@ -70,3 +70,4 @@
 |--- | --- | ---| --- | --- |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Golang](algorithms/0098.ValidateBinarySearchTree/0098.ValidateBinarySearchTree.go) | Medium | ✅ ✅ |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Golang](algorithms/0129.SumRootToLeafNumbers/0129.SumRootToLeafNumbers.go) | Medium | ✅ ✅ |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Golang](algorithms/0199.BinaryTreeRightSideView/0199.BinaryTreeRightSideView.go) | Medium | ✅ ✅ |
