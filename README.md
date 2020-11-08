@@ -72,3 +72,4 @@
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Golang](algorithms/0129.SumRootToLeafNumbers/0129.SumRootToLeafNumbers.go) | Medium | ✅ ✅ |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Golang](algorithms/0199.BinaryTreeRightSideView/0199.BinaryTreeRightSideView.go) | Medium | ✅ ✅ |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Golang](algorithms/0200.NumberOfIslands/0200.NumberOfIslands.go) | Medium | ✅ ✅ |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Golang](algorithms/0257.BinaryTreePaths/0257.BinaryTreePaths.go) | Easy | ✅ ✅ |
