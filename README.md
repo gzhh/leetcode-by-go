@@ -56,6 +56,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Golang](algorithms/0101.SymmetricTree/0101.SymmetricTree.go) | Easy | ✅ ✅ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Golang](algorithms/0102.BinaryTreeLevelOrderTraversal/0102.BinaryTreeLevelOrderTraversal.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
+| 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Medium | ✅ ✅ |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](algorithms/0145.BinaryTreePostorderTraversal/0145.BinaryTreePostorderTraversal.go) | Hard | ✅ ✅ |
 
