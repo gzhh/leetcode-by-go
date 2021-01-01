@@ -13,6 +13,7 @@
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Golang](algorithms/0001.TwoSum/0001.TwoSum.go) | Easy |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Golang](algorithms/0007.ReverseInteger/0007.ReverseInteger.go) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Golang](algorithms/0021.MergeTwoSortedLists/0021.MergeTwoSortedLists.go) | Easy | ✅ |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang](algorithms/0083.RemoveDuplicatesFromSortedList/0083.RemoveDuplicatesFromSortedList.go) | Easy | ✅ |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Medium | ✅ ✅ |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Golang](algorithms/0098.ValidateBinarySearchTree/0098.ValidateBinarySearchTree.go) | Medium | ✅ ✅ |
@@ -33,6 +34,12 @@
 
 
 ## Topic
+### Dynamic Programing
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ |
+
+
 ### Linked List
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
