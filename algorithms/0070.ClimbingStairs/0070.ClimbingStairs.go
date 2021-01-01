@@ -37,13 +37,16 @@ package main
 时间复杂度 O(n)
 */
 func climbStairs(n int) int {
-    f := make([]int, n)
-    f[0] = 1
-    f[1] = 2
-    i := 2
-    for i++ < n {
-        f[i] = f[i-1] + f[i-2]
-        i++
-    }
-    return f[n-1]
+	if n <= 2 {
+		return n
+	}
+	f := make([]int, n)
+	f[0] = 1
+	f[1] = 2
+	i := 2
+	for i < n {
+		f[i] = f[i-1] + f[i-2]
+		i++
+	}
+	return f[n-1]
 }
