@@ -4,10 +4,13 @@
 * [Linked List](#linked-list)
 * [Tree](#tree)
 * [String](#string)
+
+## Algorithm
+* [Dynamic Programing](#dynamic-programing)
 * [Depth-first Search](#depth-first-search)
 
 
-## Algorithm 
+## Problem List 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Golang](algorithms/0001.TwoSum/0001.TwoSum.go) | Easy |
@@ -38,7 +41,7 @@
 ### Dynamic Programing
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅✅ |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Golang](algorithms/0070.ClimbingStairs/0070.ClimbingStairs.go) | Easy | ✅✅ |
 
 
