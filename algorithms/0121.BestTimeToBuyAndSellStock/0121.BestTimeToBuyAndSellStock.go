@@ -46,6 +46,7 @@ func maxProfit(prices []int) int {
 解法二：动态规划
 状态转移方程 dp[i] = max(prices[i] - minBuyPrice, maxProfit)
 时间复杂度 O(n)
+Ref: https://www.cnblogs.com/gzshan/p/11114066.html
 */
 func maxProfit2(prices []int) int {
 	n := len(prices)
@@ -63,4 +64,3 @@ func maxProfit2(prices []int) int {
 	}
 	return maxProfit
 }
-
