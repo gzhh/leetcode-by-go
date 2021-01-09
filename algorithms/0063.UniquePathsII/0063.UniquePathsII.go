@@ -34,7 +34,8 @@ package main
 /**
 解法一：动态规划
 状态转移方程 dp[i][j] = sum(dp[i-1][j], dp[i][j-1])
-时间复杂度：O(n*n)
+时间复杂度：O(m*n)
+空间复杂度：O(m*n)
 */
 func uniquePathsWithObstacles(obstacleGrid [][]int) int {
 	m, n := len(obstacleGrid), len(obstacleGrid[0])
@@ -77,6 +78,8 @@ func uniquePathsWithObstacles(obstacleGrid [][]int) int {
 /**
 解法二：动态规划
 解法一的优化，不使用额外存储空间
+时间复杂度：O(m*n)
+空间复杂度：O(m)
 Ref: https://leetcode-cn.com/problems/unique-paths-ii/solution/bu-tong-lu-jing-ii-by-leetcode-solution-2/
  */
 func uniquePathsWithObstacles2(obstacleGrid [][]int) int {

@@ -41,7 +41,8 @@ package main
 /**
 解法一：动态规划
 状态转移方程 dp[i][j] = sum(dp[i-1][j], dp[i][j-1])
-时间复杂度：O(n*n)
+时间复杂度：O(m*n)
+空间复杂度：O(m*n)
 */
 func uniquePaths(m int, n int) int {
 	dp := make([][]int, m+1)
