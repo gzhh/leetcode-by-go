@@ -32,6 +32,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Golang](algorithms/0101.SymmetricTree/0101.SymmetricTree.go) | Easy | ✅ ✅ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Golang](algorithms/0102.BinaryTreeLevelOrderTraversal/0102.BinaryTreeLevelOrderTraversal.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Medium | ✅ ✅ |
@@ -62,6 +63,7 @@
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Golang](algorithms/0095.UniqueBinarySearchTreesII/0095.UniqueBinarySearchTreesII.go) | Medium | ✅ ✅ |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Golang](algorithms/0096.UniqueBinarySearchTrees/0096.UniqueBinarySearchTrees.go) | Medium | ✅ ✅ ✅ |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Golang](algorithms/0300.LongestIncreasingSubsequence/0300.LongestIncreasingSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Golang](algorithms/0746.MinCostClimbingStairs/0746.MinCostClimbingStairs.go) | Easy | ✅ ✅ |
