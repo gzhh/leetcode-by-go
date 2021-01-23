@@ -49,6 +49,7 @@
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Golang](algorithms/0746.MinCostClimbingStairs/0746.MinCostClimbingStairs.go) | Easy | ✅ ✅ |
 | 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
 
 
@@ -71,6 +72,7 @@
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Golang](algorithms/0746.MinCostClimbingStairs/0746.MinCostClimbingStairs.go) | Easy | ✅ ✅ |
+| 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
 
 
 ### Linked List
