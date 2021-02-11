@@ -61,3 +61,15 @@ func rob(nums []int) int {
 	}
 	return dp[n-1]
 }
+
+/**
+解法一优化：双变量代替dp数组
+ */
+func rob2(nums []int) int {
+	pprev := 0
+	prev := 0
+	for _, num := range nums {
+		pprev, prev = prev, max(prev, pprev+num)
+	}
+	return prev
+}
