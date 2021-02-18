@@ -36,6 +36,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | ✅ ✅ ✅ |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ ✅ |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Golang](algorithms/0139.WordBreak/0139.WordBreak.go) | Medium | ✅ ✅ ✅ |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Medium | ✅ ✅ |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](algorithms/0145.BinaryTreePostorderTraversal/0145.BinaryTreePostorderTraversal.go) | Hard | ✅ ✅ |
@@ -75,6 +76,7 @@
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ ✅ |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Golang](algorithms/0139.WordBreak/0139.WordBreak.go) | Medium | ✅ ✅ ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Golang](algorithms/0198.HouseRobber/0198.HouseRobber.go) | Medium | ✅ ✅ |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Golang](algorithms/0213.HouseRobberII/0213.HouseRobberII.go) | Medium | ✅ ✅ |
