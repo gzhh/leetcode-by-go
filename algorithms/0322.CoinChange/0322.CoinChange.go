@@ -38,13 +38,14 @@ Constraints:
 package main
 
 /**
-解法一：动态规划
+解法一：动态规划（背包问题）
 思路：
 	定义 m=amount,n为币值的种数，dp[i] 表示钱i所用的最少钱币个数，coins[j] 代表的是第 j 枚硬币的面值，即我们枚举最后一枚硬币面额是 coins[j]
 状态转移方程：
 	dp[i] = min(dp[i], dp[i - coins[j]] + 1) {i:0~m+1 j:0~n}
 时间复杂度：O(m*n)
 空间复杂度：O(m*n)
+Ref: https://leetcode-cn.com/problems/coin-change/solution/322-ling-qian-dui-huan-by-leetcode-solution/
 */
 func min(a, b int) int {
 	if a < b {
