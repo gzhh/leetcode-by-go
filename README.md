@@ -9,6 +9,8 @@
 * [Dynamic Programing](#dynamic-programing)
 * [Depth-first Search](#depth-first-search)
 
+## Classical Problems
+* [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
 
 ## Problem List 
 | # | Title | Solution | Difficulty | Importantly |
@@ -52,7 +54,8 @@
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Golang](algorithms/0234.PalindromeLinkedList/0234.PalindromeLinkedList.go) | Easy | ✅ ✅ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Golang](algorithms/0237.DeleteNodeInALinkedList/0237.DeleteNodeInALinkedList.go) | Easy | |
-| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ ✅ |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Golang](algorithms/0279.PerfectSquares/0279.PerfectSquares.go) | Medium | ✅ ✅ ✅ |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Golang](algorithms/0300.LongestIncreasingSubsequence/0300.LongestIncreasingSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
@@ -67,6 +70,13 @@
 | 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
+
+## Critical Problems
+### Best Time to Buy and Sell Stock
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ ✅ |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
 
 ## Similar Problems
 ### Best Time to Buy and Sell Stock
@@ -104,6 +114,7 @@
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Golang](algorithms/0198.HouseRobber/0198.HouseRobber.go) | Medium | ✅ ✅ |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Golang](algorithms/0213.HouseRobberII/0213.HouseRobberII.go) | Medium | ✅ ✅ |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
+| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Golang](algorithms/0279.PerfectSquares/0279.PerfectSquares.go) | Medium | ✅ ✅ ✅ |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Golang](algorithms/0300.LongestIncreasingSubsequence/0300.LongestIncreasingSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
