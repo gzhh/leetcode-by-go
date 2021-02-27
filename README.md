@@ -10,7 +10,7 @@
 * [Depth-first Search](#depth-first-search)
 
 ## Classical Problems
-* [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
+* [Ugly Number](#ugly-number)
 
 ## Problem List 
 | # | Title | Solution | Difficulty | Importantly |
@@ -72,7 +72,7 @@
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
 
 ## Critical Problems
-### Best Time to Buy and Sell Stock
+### Ugly Number
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ ✅ |
