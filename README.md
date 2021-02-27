@@ -35,6 +35,7 @@
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](algorithms/0122.BestTimeToBuyAndSellStockII/0122.BestTimeToBuyAndSellStockII.go) | Easy | ✅ ✅ |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Golang](algorithms/0123.BestTimeToBuyAndSellStockIII/0123.BestTimeToBuyAndSellStockIII.go) | Hard | ✅ ✅ ✅ |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | ✅ ✅ ✅ |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ ✅ |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Golang](algorithms/0139.WordBreak/0139.WordBreak.go) | Medium | ✅ ✅ ✅ |
@@ -64,6 +65,15 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
 
+## Similar Problems
+### Best Time to Buy and Sell Stock
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](algorithms/0122.BestTimeToBuyAndSellStockII/0122.BestTimeToBuyAndSellStockII.go) | Easy | ✅ ✅ |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Golang](algorithms/0123.BestTimeToBuyAndSellStockIII/0123.BestTimeToBuyAndSellStockIII.go) | Hard | ✅ ✅ ✅ |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
+
 
 ## Topic
 ### Dynamic Programing
@@ -81,6 +91,7 @@
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](algorithms/0122.BestTimeToBuyAndSellStockII/0122.BestTimeToBuyAndSellStockII.go) | Easy | ✅ ✅ |
+| 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Golang](algorithms/0123.BestTimeToBuyAndSellStockIII/0123.BestTimeToBuyAndSellStockIII.go) | Hard | ✅ ✅ ✅ |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ ✅ |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Golang](algorithms/0139.WordBreak/0139.WordBreak.go) | Medium | ✅ ✅ ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
