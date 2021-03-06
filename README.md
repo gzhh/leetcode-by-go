@@ -72,14 +72,13 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
 
-## Critical Problems
+## Classical Problems
 ### Ugly Number
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ ✅ |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
 
-## Similar Problems
 ### House Robber
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
