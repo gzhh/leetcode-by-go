@@ -11,6 +11,8 @@
 
 ## Classical Problems
 * [Ugly Number](#ugly-number)
+* [House Robber](#house-robber)
+* [Best Time to Buy and Sell Stock](#best-time-to-buy-and-sell-stock)
 
 ## Problem List 
 | # | Title | Solution | Difficulty | Importantly |
