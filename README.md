@@ -27,6 +27,7 @@
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | ✅ ✅ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Golang](algorithms/0070.ClimbingStairs/0070.ClimbingStairs.go) | Easy | ✅ ✅ |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Golang](algorithms/0075.SortColors/0075.SortColors.go) | Medium | ✅ ✅ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang](algorithms/0083.RemoveDuplicatesFromSortedList/0083.RemoveDuplicatesFromSortedList.go) | Easy | ✅ |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Medium | ✅ ✅ |
