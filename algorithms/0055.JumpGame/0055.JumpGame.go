@@ -29,7 +29,7 @@ func max(a, b int) int {
 }
 
 /**
-解法一：
+解法一：贪心
 */
 func canJump(nums []int) bool {
 	dis, n := 0, len(nums)
