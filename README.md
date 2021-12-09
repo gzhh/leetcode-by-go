@@ -22,11 +22,14 @@
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Golang](algorithms/0007.ReverseInteger/0007.ReverseInteger.go) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Golang](algorithms/0021.MergeTwoSortedLists/0021.MergeTwoSortedLists.go) | Easy | ✅ |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | ✅ ✅ ✅ |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Golang](algorithms/0045.JumpGameII/0045.JumpGameII.go) | Medium | ✅ ✅  |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅  |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Golang](algorithms/0055.JumpGame/0055.JumpGame.go) | Medium | ✅ ✅  |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Golang](algorithms/0062.UniquePaths/0062.UniquePaths.go) | Medium | ✅ ✅ |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | ✅ ✅ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Golang](algorithms/0070.ClimbingStairs/0070.ClimbingStairs.go) | Easy | ✅ ✅ |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Golang](algorithms/0075.SortColors/0075.SortColors.go) | Medium | ✅ ✅ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang](algorithms/0083.RemoveDuplicatesFromSortedList/0083.RemoveDuplicatesFromSortedList.go) | Easy | ✅ |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Medium | ✅ ✅ |
@@ -64,6 +67,7 @@
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Golang](algorithms/0322.CoinChange/0322.CoinChange.go) | Medium | ✅ ✅ ✅ |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Golang](algorithms/0337.HouseRobberIII/0337.HouseRobberIII.go) | Medium | ✅ ✅ |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Golang](algorithms/0344.ReverseString/0344.ReverseString.go) | Easy | ✅ |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ |
@@ -106,6 +110,7 @@
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Golang](algorithms/0005.LongestPalindromicSubstring/0005.LongestPalindromicSubstring.go) | Medium | ✅ ✅ ✅ |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | ✅ ✅ ✅ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Golang](algorithms/0062.UniquePaths/0062.UniquePaths.go) | Medium | ✅ ✅ |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | ✅ ✅ |
@@ -131,6 +136,7 @@
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Golang](algorithms/0322.CoinChange/0322.CoinChange.go) | Medium | ✅ ✅ ✅ |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Golang](algorithms/0337.HouseRobberIII/0337.HouseRobberIII.go) | Medium | ✅ ✅ |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
 | 509 | [Fibonacci Number/](https://leetcode.com/problems/fibonacci-number/) | [Golang](algorithms/0509.FibonacciNumber/0509.FibonacciNumber.go) | Easy | ✅ |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
