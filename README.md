@@ -68,6 +68,7 @@
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Golang](algorithms/0322.CoinChange/0322.CoinChange.go) | Medium | ✅ ✅ ✅ |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Golang](algorithms/0337.HouseRobberIII/0337.HouseRobberIII.go) | Medium | ✅ ✅ |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Golang](algorithms/0343.IntegerBreak/0343.IntegerBreak.go) | Medium | ✅✅  |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Golang](algorithms/0344.ReverseString/0344.ReverseString.go) | Easy | ✅ |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ |
@@ -105,6 +106,11 @@
 |--- | --- | ---| --- | --- |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Golang](algorithms/0062.UniquePaths/0062.UniquePaths.go) | Medium | ✅ ✅ |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | ✅ ✅ |
+
+### Integer Break
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/) | [Golang](algorithms/0343.IntegerBreak/0343.IntegerBreak.go) | Medium | ✅✅  |
 
 ### House Robber
 | # | Title | Solution | Difficulty | Importantly |
