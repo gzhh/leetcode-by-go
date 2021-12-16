@@ -73,6 +73,7 @@
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Golang](algorithms/0416.PartitionEqualSubsetSum/0416.PartitionEqualSubsetSum.go) | Medium | ✅ ✅ ✅ |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Golang](algorithms/0494.TargetSum/0494.TargetSum.go) | Medium | ✅ ✅ ✅ |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Golang](algorithms/509.FibonacciNumber/509.FibonacciNumber.go) | Easy | ✅ |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
@@ -124,6 +125,7 @@
 |--- | --- | ---| --- | --- |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Golang](algorithms/0416.PartitionEqualSubsetSum/0416.PartitionEqualSubsetSum.go) | Medium | ✅ ✅ ✅ |
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [Golang](algorithms/1049.LastStoneWeightII/1049.LastStoneWeightII.go) | Medium | ✅ ✅ ✅ |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Golang](algorithms/0494.TargetSum/0494.TargetSum.go) | Medium | ✅ ✅ ✅ |
 
 ### House Robber
 | # | Title | Solution | Difficulty | Importantly |
