@@ -77,6 +77,7 @@
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Golang](algorithms/0494.TargetSum/0494.TargetSum.go) | Medium | ✅ ✅ ✅ |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Golang](algorithms/509.FibonacciNumber/509.FibonacciNumber.go) | Easy | ✅ |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
+| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | ✅ ✅ ✅ |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Golang](algorithms/0714.BestTimeToBuyAndSellStockWithTransactionFee/0714.BestTimeToBuyAndSellStockWithTransactionFee.go) | Medium | ✅ ✅ ✅ |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Golang](algorithms/0746.MinCostClimbingStairs/0746.MinCostClimbingStairs.go) | Easy | ✅ ✅ |
@@ -128,6 +129,11 @@
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [Golang](algorithms/1049.LastStoneWeightII/1049.LastStoneWeightII.go) | Medium | ✅ ✅ ✅ |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Golang](algorithms/0494.TargetSum/0494.TargetSum.go) | Medium | ✅ ✅ ✅ |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Golang](algorithms/0474.OnesAndZeroes/0474.OnesAndZeroes.go) | Medium | ✅ ✅ ✅ |
+
+### [Complete Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | ✅ ✅ ✅ |
 
 ### House Robber
 | # | Title | Solution | Difficulty | Importantly |
