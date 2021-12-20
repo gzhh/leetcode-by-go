@@ -31,14 +31,6 @@ Constraints:
 **
 **********************************************************************************/
 
-/**
- * Definition for singly-linked list.
- * type ListNode struct {
- *     Val int
- *     Next *ListNode
- * }
- */
-
 package main
 
 func max(a, b int) int {

@@ -136,6 +136,9 @@
 |--- | --- | ---| --- | --- |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | ✅ ✅ ✅ |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | [Golang](algorithms/0377.CombinationSumIV/0377.CombinationSumIV.go) | Medium | ✅ ✅ ✅ |
+| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Golang](algorithms/0322.CoinChange/0322.CoinChange2.go) | Medium | ✅ ✅ ✅ |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Golang](algorithms/0279.PerfectSquares/0279.PerfectSquares.go) | Medium | ✅ ✅ ✅ |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Golang](algorithms/0139.WordBreak/0139.WordBreak.go) | Medium | ✅ ✅ ✅ |
 
 ### House Robber
 | # | Title | Solution | Difficulty | Importantly |
@@ -167,17 +170,14 @@
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](algorithms/0122.BestTimeToBuyAndSellStockII/0122.BestTimeToBuyAndSellStockII.go) | Easy | ✅ ✅ |
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Golang](algorithms/0123.BestTimeToBuyAndSellStockIII/0123.BestTimeToBuyAndSellStockIII.go) | Hard | ✅ ✅ ✅ |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ ✅ |
-| 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Golang](algorithms/0139.WordBreak/0139.WordBreak.go) | Medium | ✅ ✅ ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Golang](algorithms/0188.BestTimeToBuyAndSellStockIV/0188.BestTimeToBuyAndSellStockIV.go) | Hard | ✅ ✅ ✅ |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Golang](algorithms/0198.HouseRobber/0198.HouseRobber.go) | Medium | ✅ ✅ |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Golang](algorithms/0213.HouseRobberII/0213.HouseRobberII.go) | Medium | ✅ ✅ |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
-| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Golang](algorithms/0279.PerfectSquares/0279.PerfectSquares.go) | Medium | ✅ ✅ ✅ |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Golang](algorithms/0300.LongestIncreasingSubsequence/0300.LongestIncreasingSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
-| 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Golang](algorithms/0322.CoinChange/0322.CoinChange.go) | Medium | ✅ ✅ ✅ |
 | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Golang](algorithms/0337.HouseRobberIII/0337.HouseRobberIII.go) | Medium | ✅ ✅ |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
