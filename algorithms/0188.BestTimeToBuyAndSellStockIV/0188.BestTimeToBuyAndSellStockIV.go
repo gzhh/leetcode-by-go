@@ -30,6 +30,37 @@ import "math"
 
 /**
 解法一：动态规划
+	参考 123.Best Time to Buy and Sell Stock III (最多进行两次交易)，是其进阶版。
+Ref: https://programmercarl.com/0188.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAIV.html
+*/
+func maxProfit(k int, prices []int) int {
+	n := len(prices)
+	if n == 0 {
+		return 0
+	}
+
+	m := 2*k + 1
+	dp := make([][]int, n)
+	for i := 0; i < n; i++ {
+		dp[i] = make([]int, m)
+	}
+
+	for j := 1; j < 2*k; j += 2 {
+		dp[0][j] = -prices[0]
+	}
+
+	for i := 1; i < n; i++ {
+		for j := 0; j < 2*k-1; j += 2 {
+			dp[i][j+1] = max(dp[i-1][j+1], dp[i-1][j]-prices[i])
+			dp[i][j+2] = max(dp[i-1][j+2], dp[i-1][j+1]+prices[i])
+		}
+	}
+
+	return dp[n-1][m-1]
+}
+
+/**
+解法二：动态规划
 思路：
 	参考 123.Best Time to Buy and Sell Stock III (最多进行两次交易)
 	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
@@ -58,12 +89,12 @@ func max(a ...int) int {
 	return res
 }
 
-func maxProfit(k int, prices []int) int {
+func maxProfit2(k int, prices []int) int {
 	n := len(prices)
 	if n == 0 {
 		return 0
 	}
-	k = min(k, n / 2)
+	k = min(k, n/2)
 
 	buy := make([]int, k+1)
 	sell := make([]int, k+1)
@@ -74,10 +105,10 @@ func maxProfit(k int, prices []int) int {
 	}
 
 	for i := 1; i < n; i++ {
-		buy[0] = max(buy[0], sell[0] - prices[i])
+		buy[0] = max(buy[0], sell[0]-prices[i])
 		for j := 1; j <= k; j++ {
-			buy[j] = max(buy[j], sell[j] - prices[i])
-			sell[j] = max(sell[j], buy[j-1] + prices[i])
+			buy[j] = max(buy[j], sell[j]-prices[i])
+			sell[j] = max(sell[j], buy[j-1]+prices[i])
 		}
 	}
 	return max(sell...)
