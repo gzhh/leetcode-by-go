@@ -29,8 +29,8 @@ package main
 /**
 解法一：动态规划
 思路：
-	参考 123.Best Time to Buy and Sell Stock III (最多进行两次交易)
-	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+	参考 122.Best Time to Buy and Sell Stock II (任意次交易)
+	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 状态转移方程:
 	// i:0-n j:0-k
 	dp[i][0] = max(dp[i-1][0], dp[i-1][1] + prices[i] - fee)
@@ -55,8 +55,8 @@ func maxProfit(prices []int, fee int) int {
 	dp := make([][2]int, n)
 	dp[0][0], dp[0][1] = 0, -prices[0]
 	for i := 1; i < n; i++ {
-		dp[i][0] = max(dp[i-1][0], dp[i-1][1] + prices[i] - fee)
-		dp[i][1] = max(dp[i-1][1], dp[i-1][0] - prices[i])
+		dp[i][0] = max(dp[i-1][0], dp[i-1][1]+prices[i]-fee)
+		dp[i][1] = max(dp[i-1][1], dp[i-1][0]-prices[i])
 	}
 	return dp[n-1][0]
 }
@@ -64,13 +64,13 @@ func maxProfit(prices []int, fee int) int {
 /**
 解法二：贪心
 Ref: https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solution/mai-mai-gu-piao-de-zui-jia-shi-ji-han-sh-rzlz/
- */
+*/
 func maxProfit2(prices []int, fee int) int {
 	n := len(prices)
-	maxProfit := 0;
-	buy := prices[0] + fee;
+	maxProfit := 0
+	buy := prices[0] + fee
 	for i := 1; i < n; i++ {
-		if prices[i] + fee < buy {
+		if prices[i]+fee < buy {
 			buy = prices[i] + fee
 		} else if prices[i] > buy {
 			maxProfit += prices[i] - buy

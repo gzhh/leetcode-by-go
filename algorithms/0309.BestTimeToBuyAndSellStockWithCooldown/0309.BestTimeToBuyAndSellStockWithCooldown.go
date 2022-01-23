@@ -28,6 +28,9 @@ func max(a, b int) int {
 
 /**
 解法一：动态规划（四种状态）
+思路：
+	参考 122.Best Time to Buy and Sell Stock II (任意次交易)
+	https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 Ref: https://programmercarl.com/0309.%E6%9C%80%E4%BD%B3%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.html
 */
 func maxProfit(prices []int) int {
