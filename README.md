@@ -80,6 +80,7 @@
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | ✅ ✅ ✅ |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Golang](algorithms/0674.LongestContinuousIncreasingSubsequence/0674.LongestContinuousIncreasingSubsequence.go) | Easy | ✅ ✅ ✅ |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Golang](algorithms/0714.BestTimeToBuyAndSellStockWithTransactionFee/0714.BestTimeToBuyAndSellStockWithTransactionFee.go) | Medium | ✅ ✅ ✅ |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Golang](algorithms/0746.MinCostClimbingStairs/0746.MinCostClimbingStairs.go) | Easy | ✅ ✅ |
 | 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
@@ -157,10 +158,11 @@
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Golang](algorithms/0714.BestTimeToBuyAndSellStockWithTransactionFee/0714.BestTimeToBuyAndSellStockWithTransactionFee.go) | Medium | ✅ ✅ ✅ |
 
-### LIS
+### LIS & LCIS
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Golang](algorithms/0300.LongestIncreasingSubsequence/0300.LongestIncreasingSubsequence.go) | Medium | ✅ ✅ ✅ |
+| 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Golang](algorithms/0674.LongestContinuousIncreasingSubsequence/0674.LongestContinuousIncreasingSubsequence.go) | Easy | ✅ ✅ ✅ |
 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
