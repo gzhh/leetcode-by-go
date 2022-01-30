@@ -82,6 +82,7 @@
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Golang](algorithms/0674.LongestContinuousIncreasingSubsequence/0674.LongestContinuousIncreasingSubsequence.go) | Easy | ✅ ✅ ✅ |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Golang](algorithms/0714.BestTimeToBuyAndSellStockWithTransactionFee/0714.BestTimeToBuyAndSellStockWithTransactionFee.go) | Medium | ✅ ✅ ✅ |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Golang](algorithms/0718.MaximumLengthOfRepeatedSubarray/0718.MaximumLengthOfRepeatedSubarray.go) | Medium | ✅ ✅ ✅ |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Golang](algorithms/0746.MinCostClimbingStairs/0746.MinCostClimbingStairs.go) | Easy | ✅ ✅ |
 | 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
 | 1049 | [Last Stone Weight II](https://leetcode.com/problems/last-stone-weight-ii/) | [Golang](algorithms/1049.LastStoneWeightII/1049.LastStoneWeightII.go) | Medium | ✅ ✅ ✅ |
@@ -163,6 +164,7 @@
 |--- | --- | ---| --- | --- |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Golang](algorithms/0300.LongestIncreasingSubsequence/0300.LongestIncreasingSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Golang](algorithms/0674.LongestContinuousIncreasingSubsequence/0674.LongestContinuousIncreasingSubsequence.go) | Easy | ✅ ✅ ✅ |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Golang](algorithms/0718.MaximumLengthOfRepeatedSubarray/0718.MaximumLengthOfRepeatedSubarray.go) | Medium | ✅ ✅ ✅ |
 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
