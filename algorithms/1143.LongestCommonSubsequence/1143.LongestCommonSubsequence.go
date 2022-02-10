@@ -40,8 +40,8 @@ if s1[i-1] == s2[j-1]:
 	dp[i][j] = dp[i-1][j-1] + 1
 else:
 	dp[i][j] = max(dp[i-1][j], dp[i][j-1])
-时间复杂度：O(n*n)
-空间复杂度：O(n*n)
+时间复杂度：O(m*n)
+空间复杂度：O(m*n)
 Ref: https://leetcode-cn.com/problems/longest-common-subsequence/solution/dong-tai-gui-hua-zhi-zui-chang-gong-gong-zi-xu-lie/
 */
 func max(a, b int) int {
@@ -53,9 +53,9 @@ func max(a, b int) int {
 
 func longestCommonSubsequence(text1 string, text2 string) int {
 	m, n := len(text1), len(text2)
-	dp := make([][]int, m + 1)
+	dp := make([][]int, m+1)
 	for i := 0; i <= m; i++ {
-		dp[i] = make([]int, n + 1)
+		dp[i] = make([]int, n+1)
 	}
 	for i := 1; i <= m; i++ {
 		for j := 1; j <= n; j++ {
