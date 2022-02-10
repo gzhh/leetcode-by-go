@@ -32,23 +32,28 @@ package main
 
 /**
 解法一：双指针
-思路：
 */
 func isSubsequence(s string, t string) bool {
 	sLen, tLen := len(s), len(t)
 	if sLen == 0 {
 		return true
-	} else if tLen == 0 {
+	}
+	if tLen == 0 {
 		return false
 	}
-	i, j := 0, 0
-	for ; i < tLen; i++ {
-		if j == sLen {
-			break
-		}
+	j := 0
+	for i := 0; i < tLen; i++ {
 		if t[i] == s[j] {
 			j++
 		}
+		if j == sLen {
+			return true
+		}
 	}
-	return sLen == j
+	return false
 }
+
+/**
+解法二：动态规划（编辑距离）
+思路：
+*/

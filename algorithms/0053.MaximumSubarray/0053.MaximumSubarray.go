@@ -47,22 +47,29 @@ package main
 状态转移方程：f[i] = max(f[i-1]+nums[i], nums[i])
 时间复杂度：O(n)
 */
-func maxSubArray(nums []int) int {
-	f := make([]int, len(nums))
-	f[0] = nums[0]
-	maxSum := f[0]
-	for i, num := range nums {
-		if i == 0 {
-			continue
-		}
-		if f[i-1] > 0 {
-			f[i] = f[i-1] + num
-		} else {
-			f[i] = num
-		}
-		if maxSum < f[i] {
-			maxSum = f[i]
-		}
+func max(a, b int) int {
+	if a > b {
+		return a
 	}
-	return maxSum
+	return b
+}
+
+func maxSubArray(nums []int) int {
+	n := len(nums)
+
+	dp := make([]int, n)
+	dp[0] = nums[0]
+
+	res := nums[0]
+	for i := 1; i < n; i++ {
+		if dp[i-1] > 0 {
+			dp[i] = dp[i-1] + nums[i]
+		} else {
+			dp[i] = nums[i]
+		}
+
+		res = max(res, dp[i])
+	}
+
+	return res
 }

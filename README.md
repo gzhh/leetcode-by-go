@@ -168,12 +168,13 @@
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Golang](algorithms/0718.MaximumLengthOfRepeatedSubarray/0718.MaximumLengthOfRepeatedSubarray.go) | Medium | ✅ ✅ ✅ |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 1035 | [Uncrossed Line](https://leetcode.com/problems/uncrossed-line/) | [Golang](algorithms/1035.UncrossedLine/1035.UncrossedLine.go) | Medium | ✅ ✅ ✅ |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ ✅ |
 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Golang](algorithms/0005.LongestPalindromicSubstring/0005.LongestPalindromicSubstring.go) | Medium | ✅ ✅ ✅ |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | ✅ ✅ ✅ |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Golang](algorithms/0095.UniqueBinarySearchTreesII/0095.UniqueBinarySearchTreesII.go) | Medium | ✅ ✅ |
