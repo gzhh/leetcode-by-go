@@ -40,6 +40,7 @@ else:
 时间复杂度：O(n*n)
 空间复杂度：O(n*n)
 Ref: https://leetcode-cn.com/problems/longest-palindromic-subsequence/solution/dong-tai-gui-hua-si-yao-su-by-a380922457-3/
+Ref: https://programmercarl.com/0516.%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E5%BA%8F%E5%88%97.html
 */
 func max(a, b int) int {
 	if a > b {
@@ -51,11 +52,11 @@ func max(a, b int) int {
 func longestPalindromeSubseq(s string) int {
 	n := len(s)
 	dp := make([][]int, n)
-	for i := range dp {
+	for i := 0; i < n; i++ {
 		dp[i] = make([]int, n)
+		dp[i][i] = 1
 	}
 	for i := n - 1; i >= 0; i-- {
-		dp[i][i] = 1
 		for j := i + 1; j < n; j++ {
 			if s[i] == s[j] {
 				dp[i][j] = dp[i+1][j-1] + 2

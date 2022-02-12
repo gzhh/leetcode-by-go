@@ -29,6 +29,7 @@
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | ✅ ✅ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Golang](algorithms/0070.ClimbingStairs/0070.ClimbingStairs.go) | Easy | ✅ ✅ |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Golang](algorithms/0072.EditDistance/0072.EditDistance.go) | Hard | ✅ ✅ ✅ |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Golang](algorithms/0075.SortColors/0075.SortColors.go) | Medium | ✅ ✅ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang](algorithms/0083.RemoveDuplicatesFromSortedList/0083.RemoveDuplicatesFromSortedList.go) | Easy | ✅ |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
@@ -162,7 +163,7 @@
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Golang](algorithms/0309.BestTimeToBuyAndSellStockWithCooldown/0309.BestTimeToBuyAndSellStockWithCooldown.go) | Medium | ✅ ✅ ✅ |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Golang](algorithms/0714.BestTimeToBuyAndSellStockWithTransactionFee/0714.BestTimeToBuyAndSellStockWithTransactionFee.go) | Medium | ✅ ✅ ✅ |
 
-### LIS & LCIS
+### Subsequence Problem
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Golang](algorithms/0300.LongestIncreasingSubsequence/0300.LongestIncreasingSubsequence.go) | Medium | ✅ ✅ ✅ |
@@ -178,6 +179,13 @@
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ ✅ |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Golang](algorithms/0115.DistinctSubsequences/0115.DistinctSubsequences.go) | Hard | ✅ ✅ ✅ |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Golang](algorithms/0583.DeleteOperationForTwoStrings/0583.DeleteOperationForTwoStrings.go) | Hard | ✅ ✅ ✅ |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Golang](algorithms/0072.EditDistance/0072.EditDistance.go) | Hard | ✅ ✅ ✅ |
+
+### Palindromic Substrings & Palindromic Subsequence
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
@@ -193,8 +201,6 @@
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
-| 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
-| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 
 
 ## Linked List
