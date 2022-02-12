@@ -55,5 +55,30 @@ func isSubsequence(s string, t string) bool {
 
 /**
 解法二：动态规划（编辑距离）
-思路：
+思路：https://programmercarl.com/0392.%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.html
 */
+func isSubsequence2(s string, t string) bool {
+	sLen, tLen := len(s), len(t)
+	if sLen == 0 {
+		return true
+	}
+	if tLen == 0 {
+		return false
+	}
+
+	dp := make([][]int, sLen+1)
+	for i := 0; i <= sLen; i++ {
+		dp[i] = make([]int, tLen+1)
+	}
+
+	for i := 1; i <= sLen; i++ {
+		for j := 1; j <= tLen; j++ {
+			if s[i-1] == t[j-1] {
+				dp[i][j] = dp[i-1][j-1] + 1
+			} else {
+				dp[i][j] = dp[i][j-1]
+			}
+		}
+	}
+	return dp[sLen][tLen] == sLen
+}

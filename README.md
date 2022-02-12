@@ -40,6 +40,7 @@
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Golang](algorithms/0101.SymmetricTree/0101.SymmetricTree.go) | Easy | ✅ ✅ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Golang](algorithms/0102.BinaryTreeLevelOrderTraversal/0102.BinaryTreeLevelOrderTraversal.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Golang](algorithms/0115.DistinctSubsequences/0115.DistinctSubsequences.go) | Hard | ✅ ✅ ✅ |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Golang](algorithms/0121.BestTimeToBuyAndSellStock/0121.BestTimeToBuyAndSellStock.go) | Easy | ✅ ✅ |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](algorithms/0122.BestTimeToBuyAndSellStockII/0122.BestTimeToBuyAndSellStockII.go) | Easy | ✅ ✅ |
@@ -79,6 +80,7 @@
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Golang](algorithms/509.FibonacciNumber/509.FibonacciNumber.go) | Easy | ✅ |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | ✅ ✅ ✅ |
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Golang](algorithms/0583.DeleteOperationForTwoStrings/0583.DeleteOperationForTwoStrings.go) | Hard | ✅ ✅ ✅ |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [Golang](algorithms/0674.LongestContinuousIncreasingSubsequence/0674.LongestContinuousIncreasingSubsequence.go) | Easy | ✅ ✅ ✅ |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Golang](algorithms/0714.BestTimeToBuyAndSellStockWithTransactionFee/0714.BestTimeToBuyAndSellStockWithTransactionFee.go) | Medium | ✅ ✅ ✅ |
@@ -169,7 +171,11 @@
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 1035 | [Uncrossed Line](https://leetcode.com/problems/uncrossed-line/) | [Golang](algorithms/1035.UncrossedLine/1035.UncrossedLine.go) | Medium | ✅ ✅ ✅ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
+
+### [Edit distance](https://en.wikipedia.org/wiki/Edit_distance)
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ ✅ |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Golang](algorithms/0115.DistinctSubsequences/0115.DistinctSubsequences.go) | Hard | ✅ ✅ ✅ |
+| 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Golang](algorithms/0583.DeleteOperationForTwoStrings/0583.DeleteOperationForTwoStrings.go) | Hard | ✅ ✅ ✅ |
 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
