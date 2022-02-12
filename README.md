@@ -173,6 +173,8 @@
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
 
 ### [Edit distance](https://en.wikipedia.org/wiki/Edit_distance)
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ ✅ |
 | 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Golang](algorithms/0115.DistinctSubsequences/0115.DistinctSubsequences.go) | Hard | ✅ ✅ ✅ |
 | 583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Golang](algorithms/0583.DeleteOperationForTwoStrings/0583.DeleteOperationForTwoStrings.go) | Hard | ✅ ✅ ✅ |
