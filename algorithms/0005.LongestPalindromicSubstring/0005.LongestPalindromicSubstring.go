@@ -39,44 +39,81 @@ Ref: https://leetcode-cn.com/problems/longest-palindromic-substring/solution/zui
 */
 func longestPalindrome(s string) string {
 	n := len(s)
-	// dp[i][j] 表示字符串 s[i:j] 是否是回文串
-	dp := make([][]int, n)
-	for i := 0; i < n; i++ {
-		dp[i] = make([]int, n)
+	if n <= 1 {
+		return s
 	}
 
-	ans := ""
-	// 维护k，k(0->n)
-	for k := 0; k < n; k++ {
-		for i := 0; i + k < n; i++ {
-			j := i + k
-			if k == 0 {
-				dp[i][j] = 1
-			} else if k == 1 {
-				if s[i] == s[j] {
-					dp[i][j] = 1
-				}
+	// dp[i][j] 表示字符串 s[i:j] 是否是回文串
+	dp := make([][]bool, n)
+	for i := 0; i < n; i++ {
+		dp[i] = make([]bool, n)
+		// 初始化
+		dp[i][i] = true
+	}
+
+	begin := 0
+	maxLen := 1
+	// 枚举子串长度
+	for L := 2; L <= n; L++ {
+		// 枚举左边界
+		for i := 0; i < n; i++ {
+			// 获取右边界
+			j := i + L - 1
+			if j >= n {
+				break
+			}
+
+			if s[i] != s[j] {
+				dp[i][j] = false
 			} else {
-				// 只有 s[i+1:j-1] 是回文串，并且 s 的第 i 和 j 个字母相同时，s[i:j] 才会是回文串
-				if s[i] == s[j] {
+				if j-i <= 2 {
+					dp[i][j] = true
+				} else {
 					dp[i][j] = dp[i+1][j-1]
 				}
 			}
-			if dp[i][j] > 0 && k + 1 > len(ans) {
-				ans = s[i:i+k+1]
+
+			if dp[i][j] && j-i+1 > maxLen {
+				begin = i
+				maxLen = j - i + 1
 			}
 		}
 	}
 
-	// 只会是所有最大长度回文串中最先找到的那个回文串
-	return ans
+	return s[begin : begin+maxLen]
 }
-
 
 /**
 解法二：中心扩展算法
 时间复杂度：O(n*n)
 */
+func longestPalindrome2(s string) string {
+	if s == "" {
+		return ""
+	}
+
+	start, end := 0, 0
+	for i := 0; i < len(s); i++ {
+		left1, right1 := expand(s, i, i)
+		left2, right2 := expand(s, i, i+1)
+		if right1-left1 > end-start {
+			start, end = left1, right1
+		}
+		if right2-left2 > end-start {
+			start, end = left2, right2
+		}
+	}
+
+	return s[start : end+1]
+}
+
+func expand(s string, left, right int) (int, int) {
+	for left >= 0 && right < len(s) && s[left] == s[right] {
+		left, right = left-1, right+1
+	}
+	return left + 1, right - 1
+}
+
 /**
 // cpp solution
 string longestPalindrome(string s) {
@@ -97,10 +134,9 @@ string longestPalindrome(string s) {
   }
   return s.substr(start, maxLen);
 }
- */
-
+*/
 
 /**
 解法三：马拉车算法（复杂）
 时间复杂度：O(n)
- */
+*/
