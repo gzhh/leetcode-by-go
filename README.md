@@ -88,6 +88,8 @@
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Golang](algorithms/0416.PartitionEqualSubsetSum/0416.PartitionEqualSubsetSum.go) | Medium | ✅ ✅ ✅ |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | [Golang](algorithms/0474.OnesAndZeroes/0474.OnesAndZeroes.go) | Medium | ✅ ✅ ✅ |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Golang](algorithms/0494.TargetSum/0494.TargetSum.go) | Medium | ✅ ✅ ✅ |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Golang](algorithms/0496.NextGreaterElementI/0496.NextGreaterElementI.go) | Easy | ✅ ✅ ✅ |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Golang](algorithms/0503.NextGreaterElementII/0503.NextGreaterElementII.go) | Medium | ✅ ✅ ✅ |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Golang](algorithms/509.FibonacciNumber/509.FibonacciNumber.go) | Easy | ✅ |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | ✅ ✅ ✅ |
@@ -503,3 +505,5 @@
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Golang](algorithms/0739.DailyTemperatures/0739.DailyTemperatures.go) | Medium | ✅ ✅ ✅ |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Golang](algorithms/0496.NextGreaterElementI/0496.NextGreaterElementI.go) | Easy | ✅ ✅ ✅ |
+| 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Golang](algorithms/0503.NextGreaterElementII/0503.NextGreaterElementII.go) | Medium | ✅ ✅ ✅ |
