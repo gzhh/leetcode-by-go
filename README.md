@@ -42,6 +42,7 @@
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Golang](algorithms/0072.EditDistance/0072.EditDistance.go) | Hard | ✅ ✅ ✅ |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Golang](algorithms/0075.SortColors/0075.SortColors.go) | Medium | ✅ ✅ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang](algorithms/0083.RemoveDuplicatesFromSortedList/0083.RemoveDuplicatesFromSortedList.go) | Easy | ✅ |
+| 84 | [Largest Rectangle in Histogram.go](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Golang](algorithms/0084.LargestRectangleInHistogram/0084.LargestRectangleInHistogram.go) | Hard | ✅ ✅ ✅ |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Medium | ✅ ✅ |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Golang](algorithms/0095.UniqueBinarySearchTreesII/0095.UniqueBinarySearchTreesII.go) | Medium | ✅ ✅ |
@@ -507,3 +508,4 @@
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Golang](algorithms/0496.NextGreaterElementI/0496.NextGreaterElementI.go) | Easy | ✅ ✅ ✅ |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Golang](algorithms/0503.NextGreaterElementII/0503.NextGreaterElementII.go) | Medium | ✅ ✅ ✅ |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | ✅ ✅ ✅ |
+| 84 | [Largest Rectangle in Histogram.go](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Golang](algorithms/0084.LargestRectangleInHistogram/0084.LargestRectangleInHistogram.go) | Hard | ✅ ✅ ✅ |
