@@ -443,7 +443,6 @@
 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | ✅ ✅ ✅ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Golang](algorithms/0095.UniqueBinarySearchTreesII/0095.UniqueBinarySearchTreesII.go) | Medium | ✅ ✅ |
@@ -507,3 +506,4 @@
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Golang](algorithms/0739.DailyTemperatures/0739.DailyTemperatures.go) | Medium | ✅ ✅ ✅ |
 | 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Golang](algorithms/0496.NextGreaterElementI/0496.NextGreaterElementI.go) | Easy | ✅ ✅ ✅ |
 | 503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Golang](algorithms/0503.NextGreaterElementII/0503.NextGreaterElementII.go) | Medium | ✅ ✅ ✅ |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | ✅ ✅ ✅ |
