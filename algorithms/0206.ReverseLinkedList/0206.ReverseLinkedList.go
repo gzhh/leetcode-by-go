@@ -26,8 +26,8 @@ A linked list can be reversed either iteratively or recursively. Could you imple
 package main
 
 type ListNode struct {
-    Val int
-    Next *ListNode
+	Val  int
+	Next *ListNode
 }
 
 /**
@@ -43,9 +43,22 @@ func reverseList(head *ListNode) *ListNode {
 	return newHead
 }
 
+func reverseList1(head *ListNode) *ListNode {
+	return reverse(nil, head)
+}
+
+func reverse(pre, cur *ListNode) *ListNode {
+	if cur == nil {
+		return pre
+	}
+	tmp := cur.Next
+	cur.Next = pre
+	return reverse(cur, tmp)
+}
+
 /**
 解法二：迭代
- */
+*/
 func reverseList2(head *ListNode) *ListNode {
 	var prev, cur, tmp *ListNode
 	cur = head

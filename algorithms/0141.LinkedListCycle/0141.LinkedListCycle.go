@@ -1,26 +1,34 @@
 // Source : https://leetcode.com/problems/linked-list-cycle/
 // Author : Zhonghuan Gao
-// Date   : 2020-07-11
+// Date   : 2022-02-23
 
-/********************************************************************************** 
+/**********************************************************************************
 *
-Given a linked list, determine if it has a cycle in it.
-To represent a cycle in the given linked list, we use an integer pos which represents the position (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
+Given head, the head of a linked list, determine if the linked list has a cycle in it.
+There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.
+Return true if there is a cycle in the linked list. Otherwise, return false.
 
 Example 1:
 Input: head = [3,2,0,-4], pos = 1
 Output: true
-Explanation: There is a cycle in the linked list, where tail connects to the second node.
+Explanation: There is a cycle in the linked list, where the tail connects to the 1st node (0-indexed).
 
 Example 2:
 Input: head = [1,2], pos = 0
 Output: true
-Explanation: There is a cycle in the linked list, where tail connects to the first node.
+Explanation: There is a cycle in the linked list, where the tail connects to the 0th node.
 
 Example 3:
 Input: head = [1], pos = -1
 Output: false
 Explanation: There is no cycle in the linked list.
+
+Constraints:
+The number of the nodes in the list is in the range [0, 104].
+-105 <= Node.val <= 105
+pos is -1 or a valid index in the linked-list.
+
+Follow up: Can you solve it using O(1) (i.e. constant) memory?
 *
 ***********************************************************************************/
 
@@ -35,31 +43,21 @@ Explanation: There is no cycle in the linked list.
 package leetcode
 
 type ListNode struct {
-	Val int
+	Val  int
 	Next *ListNode
 }
 
-/**
-题意：
-给一个链表，判断其是否有环
-
-解法一：
-1.使用两个指针，快指针和慢指针
-2.慢指针一次往后遍历一个节点；快指针一次往后遍历两个节点
-3.如果链表有环，那么快指针和慢指针必定在某点相遇
- */
 func hasCycle(head *ListNode) bool {
-	if head == nil {
+	if head == nil || head.Next == nil {
 		return false
 	}
-	var slow, fast *ListNode
-	slow, fast = head, head
-	for fast.Next != nil && fast.Next.Next != nil {
-		slow = slow.Next
-		fast = fast.Next.Next
-		if slow == fast {
+	fast, slow := head.Next, head
+	for fast != nil && fast.Next != nil {
+		if fast == slow {
 			return true
 		}
+		fast = fast.Next.Next
+		slow = slow.Next
 	}
 	return false
 }

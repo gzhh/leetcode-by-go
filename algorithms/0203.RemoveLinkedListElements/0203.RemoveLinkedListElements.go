@@ -23,7 +23,7 @@ Output: 1->2->3->4->5
 package main
 
 type ListNode struct {
-	Val int
+	Val  int
 	Next *ListNode
 }
 
@@ -34,6 +34,20 @@ type ListNode struct {
 指向空
 */
 func removeElements(head *ListNode, val int) *ListNode {
+	dummyNode := new(ListNode)
+	dummyNode.Next = head
+	cur := dummyNode
+	for cur.Next != nil {
+		if cur.Next.Val == val {
+			cur.Next = cur.Next.Next
+		} else {
+			cur = cur.Next
+		}
+	}
+	return dummyNode.Next
+}
+
+func removeElements1(head *ListNode, val int) *ListNode {
 	newHead := &ListNode{}
 	newCur := newHead
 
@@ -78,7 +92,7 @@ func removeElements2(head *ListNode, val int) *ListNode {
 
 /**
 解法三：使用指针的指针操作原链表
- */
+*/
 func removeElements3(head *ListNode, val int) *ListNode {
 	for p := &head; *p != nil; {
 		entry := *p
