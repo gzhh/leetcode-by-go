@@ -3,10 +3,12 @@
 ## Data Structure
 * [Array](#array)
 * [Linked List](#linked-list)
+* [Hash Table](#hash-table)
 * [String](#string)
 * [Tree](#tree)
 
 ## Algorithm
+* [Double Pointer](#double-pointer)
 * [Depth-first Search](#depth-first-search)
 * [Dynamic Programing](#dynamic-programing)
 * [Monotonic Stack](#monotonic-stack)
@@ -64,6 +66,21 @@
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Medium | ✅ ✅ |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](algorithms/0145.BinaryTreePostorderTraversal/0145.BinaryTreePostorderTraversal.go) | Hard | ✅ ✅ |
+
+
+## Hash Table
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Golang](algorithms/0001.TwoSum/0001.TwoSum.go) | Easy | ✅ |
+| 454 | [Two Sum](https://leetcode.com/problems/4sum-ii/) | [Golang](algorithms/0454.4SumII/0454.4SumII.go) | Medium | ✅ |
+
+
+## Double Pointer
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Golang](algorithms/0015.3Sum/0015.3Sum.go) | Medium | ✅ ✅ ✅ |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Golang](algorithms/0018.3Sum/0018.3Sum.go) | Medium | ✅ ✅ |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](algorithms/0027.RemoveElement/0027.RemoveElement.go) | Easy | ✅ |
 
 
 ## Depth-first Search
