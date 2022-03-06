@@ -39,21 +39,14 @@ Follow up: Solve it both recursively and iteratively.
 package main
 
 type TreeNode struct {
-	Val int
-	Left *TreeNode
+	Val   int
+	Left  *TreeNode
 	Right *TreeNode
 }
 
 /**
 解法一：递归
- */
-func isSymmetric(root *TreeNode) bool {
-	if root == nil {
-		return true
-	}
-	return isSubSymmetric(root.Left, root.Right)
-}
-
+*/
 func isSubSymmetric(left, right *TreeNode) bool {
 	if left == nil && right == nil {
 		return true
@@ -61,14 +54,20 @@ func isSubSymmetric(left, right *TreeNode) bool {
 	if (left == nil && right != nil) || (left != nil && right == nil) || (left.Val != right.Val) {
 		return false
 	}
-	return isSubSymmetric(left.Left, right.Right) && isSubSymmetric(right.Left, left.Right)
+	return isSubSymmetric(left.Left, right.Right) && isSubSymmetric(left.Right, right.Left)
 }
 
+func isSymmetric(root *TreeNode) bool {
+	if root == nil {
+		return true
+	}
+	return isSubSymmetric(root.Left, root.Right)
+}
 
 /**
 解法二：迭代
 用两个队列来判断左右子树是否对称
- */
+*/
 func isSymmetric2(root *TreeNode) bool {
 	if root == nil {
 		return true
@@ -86,7 +85,7 @@ func isSymmetric2(root *TreeNode) bool {
 		if left == nil && right == nil {
 			continue
 		}
-		if left == nil || right == nil  || left.Val != right.Val {
+		if left == nil || right == nil || left.Val != right.Val {
 			return false
 		}
 		q1 = append(q1, left.Left)
@@ -98,9 +97,8 @@ func isSymmetric2(root *TreeNode) bool {
 	return true
 }
 
-
 /**
 解法三：综合
 先翻转左子树，然后再与右子树比较
 参考第 226 题翻转二叉树，第 100 题判断两个二叉树是否相等
- */
+*/

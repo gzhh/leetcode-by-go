@@ -33,14 +33,14 @@ Follow up: Recursive solution is trivial, could you do it iteratively?
 package main
 
 type TreeNode struct {
-	Val int
-	Left *TreeNode
+	Val   int
+	Left  *TreeNode
 	Right *TreeNode
 }
 
 /**
 解法一：递归
- */
+*/
 func preorderTraversal(root *TreeNode) []int {
 	var res []int
 	rec(root, &res)
@@ -56,9 +56,27 @@ func rec(root *TreeNode, output *[]int) {
 }
 
 /**
+解法一：递归（匿名函数）
+*/
+func preorderTraversal1(root *TreeNode) []int {
+	var res []int
+	var preorder func(*TreeNode)
+	preorder = func(node *TreeNode) {
+		if node == nil {
+			return
+		}
+		res = append(res, node.Val)
+		preorder(node.Left)
+		preorder(node.Right)
+	}
+	preorder(root)
+	return res
+}
+
+/**
 解法二：
 用栈模拟递归过程
- */
+*/
 func preorderTraversal2(root *TreeNode) []int {
 	if root == nil {
 		return []int{}
@@ -74,6 +92,27 @@ func preorderTraversal2(root *TreeNode) []int {
 		res = append(res, node.Val)
 		stack = append(stack, node.Right)
 		stack = append(stack, node.Left)
+	}
+	return res
+}
+
+func preorderTraversal3(root *TreeNode) []int {
+	if root == nil {
+		return nil
+	}
+	stack := []*TreeNode{}
+	var res []int
+	stack = append(stack, root)
+	for len(stack) > 0 {
+		node := stack[len(stack)-1]
+		stack = stack[:len(stack)-1]
+		res = append(res, node.Val)
+		if node.Right != nil {
+			stack = append(stack, node.Right)
+		}
+		if node.Left != nil {
+			stack = append(stack, node.Left)
+		}
 	}
 	return res
 }

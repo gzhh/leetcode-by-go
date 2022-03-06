@@ -33,14 +33,14 @@ Follow up: Recursive solution is trivial, could you do it iteratively?
 package main
 
 type TreeNode struct {
-	Val int
-	Left *TreeNode
+	Val   int
+	Left  *TreeNode
 	Right *TreeNode
 }
 
 /**
 解法一：递归
- */
+*/
 func inorderTraversal(root *TreeNode) []int {
 	var res []int
 	rec(root, &res)
@@ -54,10 +54,29 @@ func rec(root *TreeNode, output *[]int) {
 		rec(root.Right, output)
 	}
 }
+
+/**
+解法一：递归（匿名函数）
+*/
+func inorderTraversal1(root *TreeNode) []int {
+	var res []int
+	var inorder func(*TreeNode)
+	inorder = func(node *TreeNode) {
+		if node == nil {
+			return
+		}
+		inorder(node.Left)
+		res = append(res, node.Val)
+		inorder(node.Right)
+	}
+	inorder(root)
+	return res
+}
+
 /**
 解法二：
 用栈模拟递归过程
- */
+*/
 func inorderTraversal2(root *TreeNode) []int {
 	if root == nil {
 		return []int{}
@@ -73,6 +92,27 @@ func inorderTraversal2(root *TreeNode) []int {
 			res = append(res, tmpNode.Val)
 			stack = stack[:len(stack)-1]
 			node = tmpNode.Right
+		}
+	}
+	return res
+}
+
+func inorderTraversal3(root *TreeNode) []int {
+	if root == nil {
+		return nil
+	}
+	stack := []*TreeNode{}
+	var res []int
+	cur := root
+	for cur != nil || len(stack) > 0 {
+		if cur != nil {
+			stack = append(stack, cur)
+			cur = cur.Left // 左
+		} else {
+			top := stack[len(stack)-1]
+			res = append(res, top.Val) // 中
+			stack = stack[:len(stack)-1]
+			cur = top.Right // 右
 		}
 	}
 	return res

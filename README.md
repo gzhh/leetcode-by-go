@@ -66,14 +66,18 @@
 ## Tree
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Medium | ✅ ✅ |
-| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Golang](algorithms/0100.SameTree/0100.SameTree.go) | Easy | ✅ ✅ |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Golang](algorithms/0101.SymmetricTree/0101.SymmetricTree.go) | Easy | ✅ ✅ |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Easy | ✅ ✅ |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](algorithms/0145.BinaryTreePostorderTraversal/0145.BinaryTreePostorderTraversal.go) | Easy | ✅ ✅ |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Easy | ✅ ✅ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Golang](algorithms/0102.BinaryTreeLevelOrderTraversal/0102.BinaryTreeLevelOrderTraversal.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Golang](algorithms/0111.MinimumDepthOfBinaryTree/0111.MinimumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/problems/invert-binary-tree/) | [Golang](algorithms/0226.InvertBinaryTree/0226.InvertBinaryTree.go) | Easy | ✅ ✅ |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Golang](algorithms/0100.SameTree/0100.SameTree.go) | Easy | ✅ ✅ |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Golang](algorithms/0101.SymmetricTree/0101.SymmetricTree.go) | Easy | ✅ ✅ |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Golang](algorithms/0110.BalancedBinaryTree/0110.BalancedBinaryTree.go) | Easy | ✅ ✅ |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Golang](algorithms/0257.BinaryTreePaths/0257.BinaryTreePaths.go) | Easy | ✅ ✅ |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Medium | ✅ ✅ |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](algorithms/0145.BinaryTreePostorderTraversal/0145.BinaryTreePostorderTraversal.go) | Hard | ✅ ✅ |
 
 
 ## Hash Table
@@ -217,7 +221,6 @@
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ ✅ |
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
-| 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
 | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
 
