@@ -88,6 +88,14 @@
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Golang]() | Medium | ✅ ✅ |
+| 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Golang]() | Easy | ✅ ✅ |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 701 | [Inesrt Into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/solution/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Golang]() | Hard | ✅ ✅ ✅ |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Golang]() | Easy | ✅ ✅ |
+| 450 | [Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 669 | [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
 
 
