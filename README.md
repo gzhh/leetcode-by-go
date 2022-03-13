@@ -11,6 +11,7 @@
 ## Algorithm
 * [Double Pointer](#double-pointer)
 * [Depth-first Search](#depth-first-search)
+* [Back Tracking](#back-tracking)
 * [Dynamic Programing](#dynamic-programing)
 * [Monotonic Stack](#monotonic-stack)
 
@@ -123,6 +124,16 @@
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Golang](algorithms/0199.BinaryTreeRightSideView/0199.BinaryTreeRightSideView.go) | Medium | ✅ ✅ |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Golang](algorithms/0200.NumberOfIslands/0200.NumberOfIslands.go) | Medium | ✅ ✅ |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Golang](algorithms/0257.BinaryTreePaths/0257.BinaryTreePaths.go) | Easy | ✅ ✅ |
+
+
+## Back Tracking
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Golang]() | Medium | ✅ ✅ |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 216 | [Combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/) | [Golang]() | Medium | ✅ ✅ |
+| 39 | [Combination-sum](https://leetcode.com/problems/combination-sum/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 40 | [Combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Golang]() | Medium | ✅ ✅ |
 
 
 ## Dynamic Programing
