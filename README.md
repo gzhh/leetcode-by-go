@@ -130,10 +130,21 @@
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Golang]() | Medium | ✅ ✅ |
-| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 216 | [Combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/) | [Golang]() | Medium | ✅ ✅ |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 39 | [Combination-sum](https://leetcode.com/problems/combination-sum/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 40 | [Combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/) | [Golang]() | Medium | ✅ ✅ |
+|--- | --- | ---| --- | --- |
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Golang](algorithms/0098.ValidateBinarySearchTree/0098.ValidateBinarySearchTree.go) | Medium | ✅ ✅ |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 93 | [Restore Ip Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Golang]() | Medium | ✅ ✅ ✅ |
+|--- | --- | ---| --- | --- |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 491 | [Increasing Subsequences](https://leetcode.com/problems/increasing-subsequences/) | [Golang]() | Medium | ✅ ✅ ✅ |
+|--- | --- | ---| --- | --- |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Dynamic Programing
