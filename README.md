@@ -12,6 +12,7 @@
 * [Double Pointer](#double-pointer)
 * [Depth-first Search](#depth-first-search)
 * [Back Tracking](#back-tracking)
+* [Greedy](#greedy)
 * [Dynamic Programing](#dynamic-programing)
 * [Monotonic Stack](#monotonic-stack)
 
@@ -145,6 +146,23 @@
 |--- | --- | ---| --- | --- |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
+|--- | --- | ---| --- | --- |
+| 51 | [N Queens](https://leetcode.com/problems/u-queens/) | [Golang]() | Hard | ✅ ✅ ✅ |
+
+
+## Greedy
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Golang]() | Easy | |
+| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ ✅ |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](algorithms/0122.BestTimeToBuyAndSellStockII/0122.BestTimeToBuyAndSellStockII.go) | Easy | ✅ ✅ ✅ |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 406 | [Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 738 | [Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Dynamic Programing
@@ -254,7 +272,6 @@
 
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | ✅ ✅ ✅ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Golang](algorithms/0095.UniqueBinarySearchTreesII/0095.UniqueBinarySearchTreesII.go) | Medium | ✅ ✅ |
@@ -263,6 +280,4 @@
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
-| 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | ✅ ✅ |
-
 
