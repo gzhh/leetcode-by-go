@@ -57,12 +57,15 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Golang](algorithms/0344.ReverseString/0344.ReverseString.go) | Easy | ✅ |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Golang](algorithms/0392.IsSubsequence/0392.IsSubsequence.go) | Easy | ✅ |
 
+
 ## Container
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Golang](algorithms/0150.EvaluateReversePolishNotation/0150.EvaluateReversePolishNotation.go) | Medium | ✅ ✅ ✅ |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Golang](algorithms/0239.SlidingWindowMaximum/0239.SlidingWindowMaximum.go) | Hard | ✅ ✅ ✅ |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Golang](algorithms/0347.TopKFrequentElements/0347.TopKFrequentElements.go) | Medium | ✅ ✅ ✅ |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Golang]() | Hard | ✅ ✅ ✅ |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
 ## Tree
@@ -71,6 +74,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Golang](algorithms/0144.BinaryTreePreorderTraversal/0144.BinaryTreePreorderTraversal.go) | Easy | ✅ ✅ |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Golang](algorithms/0145.BinaryTreePostorderTraversal/0145.BinaryTreePostorderTraversal.go) | Easy | ✅ ✅ |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Easy | ✅ ✅ |
+| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Golang](algorithms/0095.UniqueBinarySearchTreesII/0095.UniqueBinarySearchTreesII.go) | Medium | ✅ ✅ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Golang](algorithms/0102.BinaryTreeLevelOrderTraversal/0102.BinaryTreeLevelOrderTraversal.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Golang](algorithms/0111.MinimumDepthOfBinaryTree/0111.MinimumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
@@ -83,10 +87,12 @@
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Golang]() | Medium | ✅ ✅ |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 654 | [Maximum Binary Tree](https://leetcode.com/maximum-binary-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 617 | [Merge Two Binary Trees](https://leetcode.com/merge-two-binary-trees/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Golang]() | Hard | ✅ ✅ ✅ |
+| 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 114 | [Flatten Bianry Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Golang]() | Medium | ✅ ✅ |
@@ -99,6 +105,7 @@
 | 450 | [Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 669 | [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
+| 208 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Hash Table
@@ -106,7 +113,16 @@
 |--- | --- | ---| --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Golang](algorithms/0001.TwoSum/0001.TwoSum.go) | Easy | ✅ |
 | 454 | [Two Sum](https://leetcode.com/problems/4sum-ii/) | [Golang](algorithms/0454.4SumII/0454.4SumII.go) | Medium | ✅ |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang]() | Easy | ✅ |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
+
+## Binary Search
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 ## Double Pointer
 | # | Title | Solution | Difficulty | Importantly |
@@ -114,6 +130,8 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Golang](algorithms/0015.3Sum/0015.3Sum.go) | Medium | ✅ ✅ ✅ |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [Golang](algorithms/0018.3Sum/0018.3Sum.go) | Medium | ✅ ✅ |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](algorithms/0027.RemoveElement/0027.RemoveElement.go) | Easy | ✅ |
+| 11 | [Container with Most Water](https:/leetcode.com/problems/container-with-most-water/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Depth-first Search
@@ -121,7 +139,6 @@
 |--- | --- | ---| --- | --- |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Golang](algorithms/0098.ValidateBinarySearchTree/0098.ValidateBinarySearchTree.go) | Medium | ✅ ✅ |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Golang](algorithms/0129.SumRootToLeafNumbers/0129.SumRootToLeafNumbers.go) | Medium | ✅ ✅ |
-| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | ✅ ✅ ✅ |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Golang](algorithms/0199.BinaryTreeRightSideView/0199.BinaryTreeRightSideView.go) | Medium | ✅ ✅ |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Golang](algorithms/0200.NumberOfIslands/0200.NumberOfIslands.go) | Medium | ✅ ✅ |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Golang](algorithms/0257.BinaryTreePaths/0257.BinaryTreePaths.go) | Easy | ✅ ✅ |
@@ -129,6 +146,8 @@
 
 ## Back Tracking
 | # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Golang]() | Medium | ✅ ✅ ✅ |
 |--- | --- | ---| --- | --- |
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Golang]() | Medium | ✅ ✅ |
 | 216 | [Combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/) | [Golang]() | Medium | ✅ ✅ |
@@ -177,11 +196,12 @@
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Golang](algorithms/0070.ClimbingStairs/0070.ClimbingStairs.go) | Easy | ✅ ✅ |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Golang](algorithms/0746.MinCostClimbingStairs/0746.MinCostClimbingStairs.go) | Easy | ✅ ✅ |
 
-### Unique Paths
+### Unique Paths & Path Sum
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Golang](algorithms/0062.UniquePaths/0062.UniquePaths.go) | Medium | ✅ ✅ |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | ✅ ✅ |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
 
 ### Integer Break
 | # | Title | Solution | Difficulty | Importantly |
@@ -237,6 +257,16 @@
 | 1035 | [Uncrossed Line](https://leetcode.com/problems/uncrossed-line/) | [Golang](algorithms/1035.UncrossedLine/1035.UncrossedLine.go) | Medium | ✅ ✅ ✅ |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
 
+### Extra dp problem
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
+
+
 ### [Edit distance](https://en.wikipedia.org/wiki/Edit_distance)
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
@@ -251,6 +281,8 @@
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Golang](algorithms/0005.LongestPalindromicSubstring/0005.LongestPalindromicSubstring.go) | Medium | ✅ ✅ ✅ |
+| 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | ✅ ✅ ✅ |
+| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ |
 
 
 ## Monotonic Stack
@@ -269,15 +301,4 @@
 |--- | --- | ---| --- | --- |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ ✅ |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
-
-| # | Title | Solution | Difficulty | Importantly |
-|--- | --- | ---| --- | --- |
-| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
-| 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
-| 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [Golang](algorithms/0095.UniqueBinarySearchTreesII/0095.UniqueBinarySearchTreesII.go) | Medium | ✅ ✅ |
-| 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
-| 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ ✅ |
-| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
-| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
-| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
 
