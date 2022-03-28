@@ -66,6 +66,7 @@
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Golang](algorithms/0347.TopKFrequentElements/0347.TopKFrequentElements.go) | Medium | ✅ ✅ ✅ |
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Tree
@@ -87,6 +88,7 @@
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Golang]() | Medium | ✅ ✅ |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Golang]() | Medium | ✅ ✅ ✅ |
@@ -102,10 +104,11 @@
 | 701 | [Inesrt Into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/solution/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Golang]() | Easy | ✅ ✅ |
-| 450 | [Delete Node in a BST](https://leetcode-cn.com/problems/delete-node-in-a-bst/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 669 | [Trim a Binary Search Tree](https://leetcode-cn.com/problems/trim-a-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
 | 208 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
 ## Hash Table
@@ -115,14 +118,18 @@
 | 454 | [Two Sum](https://leetcode.com/problems/4sum-ii/) | [Golang](algorithms/0454.4SumII/0454.4SumII.go) | Medium | ✅ |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Golang]() | Easy | ✅ |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
 ## Binary Search
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 74 | [Search a 2d-Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Golang]() | Medium | ✅ ✅ ✅ |
+
 
 ## Double Pointer
 | # | Title | Solution | Difficulty | Importantly |
@@ -132,6 +139,15 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](algorithms/0027.RemoveElement/0027.RemoveElement.go) | Easy | ✅ |
 | 11 | [Container with Most Water](https:/leetcode.com/problems/container-with-most-water/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Golang]() | Medium | ✅ ✅ ✅ |
+
+
+## Sliding Window
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Golang]() | Hard | ✅ ✅ ✅ |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Golang](algorithms/0239.SlidingWindowMaximum/0239.SlidingWindowMaximum.go) | Hard | ✅ ✅ ✅ |
+| 438 | [Find All Anagrams In a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Depth-first Search
@@ -167,6 +183,7 @@
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
 |--- | --- | ---| --- | --- |
 | 51 | [N Queens](https://leetcode.com/problems/u-queens/) | [Golang]() | Hard | ✅ ✅ ✅ |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Golang]() | Medium | ✅ ✅ |
 
 
 ## Greedy
@@ -179,9 +196,9 @@
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 406 | [Queue Reconstruction by Height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/) | [Golang]() | Medium | ✅ ✅ ✅ |
-| 738 | [Monotone Increasing Digits](https://leetcode-cn.com/problems/monotone-increasing-digits/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 738 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Dynamic Programing
