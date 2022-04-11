@@ -17,7 +17,6 @@
 * [Monotonic Stack](#monotonic-stack)
 
 ## Classical Problems
-* [Ugly Number](#ugly-number)
 
 ## Array
 | # | Title | Solution | Difficulty | Importantly |
@@ -49,6 +48,8 @@
 | 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
 | lcci 02.07 | [链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | [Golang](algorithms/Lcci0207.IntersectionOfTwoLinkedLists/Lcci0207.IntersectionOfTwoLinkedLists.go) | Easy | ✅ ✅ |
+| 剑指Offer 18 | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [Golang]() | Easy | ✅ ✅ |
+| 剑指Offer 22 | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [Golang]() | Easy | ✅ ✅ |
 
 
 ## String
@@ -67,6 +68,9 @@
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 剑指Offer 09 | [用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [Golang]() | Easy | ✅ |
+| 剑指Offer 50 | [第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [Golang]() | Easy | ✅ |
 
 
 ## Tree
@@ -109,6 +113,14 @@
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
 | 208 | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 剑指Offer 07 | [重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [Golang]() | Medium | ✅ ✅ |
+| 剑指Offer 26 | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [Golang]() | Medium | ✅ ✅ |
+| 剑指Offer 32 | [从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [Golang]() | Medium | ✅ ✅ |
+| 剑指Offer 32 II | [从上到下打印二叉树II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [Golang]() | Medium | ✅ ✅ |
+| 剑指Offer 32 III | [从上到下打印二叉树III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [Golang]() | Medium | ✅ ✅ |
+| 剑指Offer 33 | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [Golang]() | Medium | ✅ ✅ |
+| 剑指Offer 36 | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 剑指Offer 54 | [二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
 ## Hash Table
@@ -127,8 +139,13 @@
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 74 | [Search a 2d-Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 240 | [Search a 2d-Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 剑指Offer 53 I | [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 剑指Offer 53 II | [0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
 ## Double Pointer
@@ -139,6 +156,9 @@
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Golang](algorithms/0027.RemoveElement/0027.RemoveElement.go) | Easy | ✅ |
 | 11 | [Container with Most Water](https:/leetcode.com/problems/container-with-most-water/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 剑指Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [Golang]() | Easy | ✅ ✅ |
+| 剑指Offer 57 | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [Golang]() | Easy | ✅ ✅ |
+| 剑指Offer 57 II | [和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
 ## Sliding Window
@@ -181,9 +201,10 @@
 |--- | --- | ---| --- | --- |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 剑指Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [Golang]() | Medium | ✅ ✅ ✅ |
 |--- | --- | ---| --- | --- |
 | 51 | [N Queens](https://leetcode.com/problems/u-queens/) | [Golang]() | Hard | ✅ ✅ ✅ |
-| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Golang]() | Medium | ✅ ✅ |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## Greedy
@@ -219,6 +240,7 @@
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Golang](algorithms/0062.UniquePaths/0062.UniquePaths.go) | Medium | ✅ ✅ |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | ✅ ✅ |
 | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | ✅ ✅ |
+| 剑指Offer 47 | [礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 ### Integer Break
 | # | Title | Solution | Difficulty | Importantly |
@@ -313,9 +335,9 @@
 
 
 ## Classical Problems
-### Ugly Number
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ ✅ |
 | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Golang]() | Easy | ✅ ✅ |
 
