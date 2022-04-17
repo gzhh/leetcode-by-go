@@ -33,6 +33,7 @@
 |--- | --- | ---| --- | --- |
 | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Golang](algorithms/0203.RemoveLinkedListElements/0203.RemoveLinkedListElements.go) | Easy | ✅ |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Golang](algorithms/0206.ReverseLinkedList/0206.ReverseLinkedList.go) | Easy | ✅ ✅ |
+| 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Golang]() | Medium | ✅ ✅ |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Golang](algorithms/0025.ReverseNodesInKGroup/0025.ReverseNodesInKGroup.go) | Hard | ✅ ✅ ✅ |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Golang](algorithms/0707.DesignLinkedList/0707.DesignLinkedList/.go) | Medium | ✅ |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Golang](algorithms/0021.MergeTwoSortedLists/0021.MergeTwoSortedLists.go) | Easy | ✅ ✅ |
@@ -42,14 +43,22 @@
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Golang](algorithms/0141.LinkedListCycle/0141.LinkedListCycle.go) | Easy | ✅ |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Golang](algorithms/0142.LinkedListCycleII/0142.LinkedListCycleII.go) | Medium | ✅ |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang](algorithms/0083.RemoveDuplicatesFromSortedList/0083.RemoveDuplicatesFromSortedList.go) | Easy | ✅ |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Golang]() | Medium | ✅ |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Golang](algorithms/0160.IntersectionOfTwoLinkedLists/0160.IntersectionOfTwoLinkedLists.go) | Easy | ✅ ✅ |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Golang](algorithms/0234.PalindromeLinkedList/0234.PalindromeLinkedList.go) | Easy | ✅ ✅ |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Golang](algorithms/0237.DeleteNodeInALinkedList/0237.DeleteNodeInALinkedList.go) | Easy | |
-| 867 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | ✅ |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Golang](algorithms/1290.ConvertBinaryNumberInALinkedListToInteger/1290.ConvertBinaryNumberInALinkedListToInteger.go) | Easy | ✅ ✅ |
 | lcci 02.07 | [链表相交](https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci/) | [Golang](algorithms/Lcci0207.IntersectionOfTwoLinkedLists/Lcci0207.IntersectionOfTwoLinkedLists.go) | Easy | ✅ ✅ |
 | 剑指Offer 18 | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [Golang]() | Easy | ✅ ✅ |
 | 剑指Offer 22 | [链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [Golang]() | Easy | ✅ ✅ |
+| 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Golang]() | Medium | ✅ ✅ |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list/) | [Golang]() | Medium | ✅ ✅ |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
 ## String
@@ -108,6 +117,7 @@
 | 701 | [Inesrt Into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/solution/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Golang]() | Easy | ✅ ✅ |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Golang](algorithms/0116.PopulatingNextRightPointersInEachNode/0116.PopulatingNextRightPointersInEachNode.go) | Medium | ✅ ✅ |
