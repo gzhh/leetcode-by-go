@@ -87,6 +87,7 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/) | [Golang](algorithms/0094.BinaryTreeInorderTraversal/0094.BinaryTreeInorderTraversal.go) | Easy | ✅ ✅ |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) | [Golang](algorithms/0102.BinaryTreeLevelOrderTraversal/0102.BinaryTreeLevelOrderTraversal.go) | Medium | ✅ ✅ |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/) | [Golang]() | Medium | ✅ ✅ |
+| 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [Golang](algorithms/0199.BinaryTreeRightSideView/0199.BinaryTreeRightSideView.go) | Medium | ✅ ✅ |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) | [Golang](algorithms/0104.MaximumDepthOfBinaryTree/0104.MaximumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/) | [Golang](algorithms/0111.MinimumDepthOfBinaryTree/0111.MinimumDepthOfBinaryTree.go) | Easy | ✅ ✅ |
 | 543 | [Diameter of Binary Tree](https://leetcode-cn.com/problems/diameter-of-binary-tree/) | [Golang]() | Easy | ✅ ✅ ✅ |
@@ -95,6 +96,7 @@
 | 101 | [Symmetric Tree](https://leetcode-cn.com/problems/symmetric-tree/) | [Golang](algorithms/0101.SymmetricTree/0101.SymmetricTree.go) | Easy | ✅ ✅ |
 | 110 | [Balanced Binary Tree](https://leetcode-cn.com/problems/balanced-binary-tree/) | [Golang](algorithms/0110.BalancedBinaryTree/0110.BalancedBinaryTree.go) | Easy | ✅ ✅ |
 | 257 | [Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/) | [Golang](algorithms/0257.BinaryTreePaths/0257.BinaryTreePaths.go) | Easy | ✅ ✅ |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Golang](algorithms/0129.SumRootToLeafNumbers/0129.SumRootToLeafNumbers.go) | Medium | ✅ ✅ |
 | 17 | [Sum Of Left Leaves](https://leetcode-cn.com/problems/sum-of-left-leaves/) | [Golang]() | Easy | ✅ ✅ |
 | 513 | [Find Bottom Left Tree Value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) | [Golang]() | Medium | ✅ ✅ |
 | 112 | [Path Sum](https://leetcode-cn.com/problems/path-sum/) | [Golang]() | Easy | ✅ ✅ ✅ |
@@ -134,7 +136,7 @@
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 1 | [Two Sum](https://leetcode-cn.com/problems/two-sum/) | [Golang](algorithms/0001.TwoSum/0001.TwoSum.go) | Easy | ✅ |
-| 454 | [Two Sum](https://leetcode-cn.com/problems/4sum-ii/) | [Golang](algorithms/0454.4SumII/0454.4SumII.go) | Medium | ✅ |
+| 454 | [4 Sum II](https://leetcode-cn.com/problems/4sum-ii/) | [Golang](algorithms/0454.4SumII/0454.4SumII.go) | Medium | ✅ |
 | 242 | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | [Golang]() | Easy | ✅ |
 | 49 | [Group Anagrams](https://leetcode-cn.com/problems/group-anagrams/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 438 | [Find All Anagrams In a String](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [Golang]() | Medium | ✅ ✅ ✅ |
@@ -161,7 +163,7 @@
 | 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [Golang](algorithms/0015.3Sum/0015.3Sum.go) | Medium | ✅ ✅ ✅ |
 | 18 | [4Sum](https://leetcode-cn.com/problems/4sum/) | [Golang](algorithms/0018.3Sum/0018.3Sum.go) | Medium | ✅ ✅ |
 | 27 | [Remove Element](https://leetcode-cn.com/problems/remove-element/) | [Golang](algorithms/0027.RemoveElement/0027.RemoveElement.go) | Easy | ✅ |
-| 11 | [Container with Most Water](https:/leetcode.com/problems/container-with-most-water/) | [Golang]() | Medium | ✅ ✅ ✅ |
+| 11 | [Container with Most Water](https:/leetcode-cn.com/problems/container-with-most-water/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 75 | [Sort Colors](https://leetcode-cn.com/problems/sort-colors/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 剑指Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [Golang]() | Easy | ✅ ✅ |
 | 剑指Offer 57 | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [Golang]() | Easy | ✅ ✅ |
@@ -181,11 +183,7 @@
 ## Depth-first Search
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 98 | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Golang](algorithms/0098.ValidateBinarySearchTree/0098.ValidateBinarySearchTree.go) | Medium | ✅ ✅ |
-| 129 | [Sum Root to Leaf Numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [Golang](algorithms/0129.SumRootToLeafNumbers/0129.SumRootToLeafNumbers.go) | Medium | ✅ ✅ |
-| 199 | [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [Golang](algorithms/0199.BinaryTreeRightSideView/0199.BinaryTreeRightSideView.go) | Medium | ✅ ✅ |
 | 200 | [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [Golang](algorithms/0200.NumberOfIslands/0200.NumberOfIslands.go) | Medium | ✅ ✅ |
-| 257 | [Binary Tree Paths](https://leetcode-cn.com/problems/binary-tree-paths/) | [Golang](algorithms/0257.BinaryTreePaths/0257.BinaryTreePaths.go) | Easy | ✅ ✅ |
 
 
 ## Back Tracking
@@ -199,7 +197,6 @@
 | 39 | [Combination-sum](https://leetcode-cn.com/problems/combination-sum/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 40 | [Combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii/) | [Golang]() | Medium | ✅ ✅ |
 |--- | --- | ---| --- | --- |
-| 98 | [Validate Binary Search Tree](https://leetcode-cn.com/problems/validate-binary-search-tree/) | [Golang](algorithms/0098.ValidateBinarySearchTree/0098.ValidateBinarySearchTree.go) | Medium | ✅ ✅ |
 | 131 | [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 93 | [Restore Ip Addresses](https://leetcode-cn.com/problems/restore-ip-addresses/) | [Golang]() | Medium | ✅ ✅ ✅ |
 |--- | --- | ---| --- | --- |
@@ -211,7 +208,7 @@
 | 47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 剑指Offer 38 | [字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [Golang]() | Medium | ✅ ✅ ✅ |
 |--- | --- | ---| --- | --- |
-| 51 | [N Queens](https://leetcode-cn.com/problems/u-queens/) | [Golang]() | Hard | ✅ ✅ ✅ |
+| 51 | [N Queens](https://leetcode-cn.com/problems/n-queens/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 79 | [Word Search](https://leetcode-cn.com/problems/word-search/) | [Golang]() | Medium | ✅ ✅ ✅ |
 
 
@@ -304,16 +301,6 @@
 | 1035 | [Uncrossed Line](https://leetcode-cn.com/problems/uncrossed-line/) | [Golang](algorithms/1035.UncrossedLine/1035.UncrossedLine.go) | Medium | ✅ ✅ ✅ |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
 
-### Extra dp problem
-| # | Title | Solution | Difficulty | Importantly |
-|--- | --- | ---| --- | --- |
-| 91 | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
-| 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
-| 152 | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
-| 221 | [Maximal Square](https://leetcode-cn.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
-| 338 | [Counting Bits](https://leetcode-cn.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
-
-
 ### [Edit distance](https://en.wikipedia.org/wiki/Edit_distance)
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
@@ -330,6 +317,15 @@
 | 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Golang](algorithms/0005.LongestPalindromicSubstring/0005.LongestPalindromicSubstring.go) | Medium | ✅ ✅ ✅ |
 | 131 | [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | ✅ ✅ ✅ |
 | 132 | [Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ |
+
+### Extra dp problem
+| # | Title | Solution | Difficulty | Importantly |
+|--- | --- | ---| --- | --- |
+| 91 | [Decode Ways](https://leetcode-cn.com/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | ✅ ✅ ✅ |
+| 120 | [Triangle](https://leetcode-cn.com/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | ✅ ✅ ✅ |
+| 152 | [Maximum Product Subarray](https://leetcode-cn.com/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | ✅ ✅ |
+| 221 | [Maximal Square](https://leetcode-cn.com/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | ✅ ✅ |
+| 338 | [Counting Bits](https://leetcode-cn.com/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | ✅ ✅ |
 
 
 ## Monotonic Stack
