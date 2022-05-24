@@ -298,7 +298,7 @@
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | [Golang](algorithms/0674.LongestContinuousIncreasingSubsequence/0674.LongestContinuousIncreasingSubsequence.go) | Easy | ✅ ✅ ✅ |
 | 718 | [Maximum Length of Repeated Subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/) | [Golang](algorithms/0718.MaximumLengthOfRepeatedSubarray/0718.MaximumLengthOfRepeatedSubarray.go) | Medium | ✅ ✅ ✅ |
 | 1143 | [Longest Common Subsequence](https://leetcode-cn.com/problems/longest-common-subsequence/) | [Golang](algorithms/1143.LongestCommonSubsequence/1143.LongestCommonSubsequence.go) | Medium | ✅ ✅ ✅ |
-| 1035 | [Uncrossed Line](https://leetcode-cn.com/problems/uncrossed-line/) | [Golang](algorithms/1035.UncrossedLine/1035.UncrossedLine.go) | Medium | ✅ ✅ ✅ |
+| 1035 | [Uncrossed Line](https://leetcode-cn.com/problems/uncrossed-lines/) | [Golang](algorithms/1035.UncrossedLine/1035.UncrossedLine.go) | Medium | ✅ ✅ ✅ |
 | 53 | [Maximum Subarray](https://leetcode-cn.com/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | ✅ ✅ |
 
 ### [Edit distance](https://en.wikipedia.org/wiki/Edit_distance)
@@ -312,8 +312,8 @@
 ### Palindromic Substrings & Palindromic Subsequence
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 516 | [Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 647 | [Palindromic Substrings](https://leetcode-cn.com/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | ✅ ✅ ✅ |
+| 516 | [Longest Palindromic Subsequence](https://leetcode-cn.com/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | ✅ ✅ ✅ |
 | 5 | [Longest Palindromic Substring](https://leetcode-cn.com/problems/longest-palindromic-substring/) | [Golang](algorithms/0005.LongestPalindromicSubstring/0005.LongestPalindromicSubstring.go) | Medium | ✅ ✅ ✅ |
 | 131 | [Palindrome Partitioning](https://leetcode-cn.com/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | ✅ ✅ ✅ |
 | 132 | [Palindrome Partitioning II](https://leetcode-cn.com/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | ✅ ✅ |
