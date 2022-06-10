@@ -147,6 +147,7 @@
 ## Binary Search
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Golang]() | Hard | ✅ ✅ ✅ |
 | 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Golang]() | Hard | ✅ ✅ ✅ |
