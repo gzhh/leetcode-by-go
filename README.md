@@ -16,8 +16,6 @@
 * [Dynamic Programing](#dynamic-programing)
 * [Monotonic Stack](#monotonic-stack)
 
-## Classical Problems
-
 ## Array
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
@@ -144,7 +142,7 @@
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
-## Binary Search
+## Binary Search & Divide and Conquer
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Golang]() | Hard | ✅ ✅ ✅ |
@@ -156,6 +154,9 @@
 | 240 | [Search a 2d-Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) | [Golang]() | Medium | ✅ ✅ ✅ |
 | 剑指Offer 53 I | [在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [Golang]() | Easy | ✅ ✅ ✅ |
 | 剑指Offer 53 II | [0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/) | [Golang]() | Medium | ✅ ✅ |
+| 69 | [Sqrtx](https://leetcode-cn.com/problems/sqrtx/) | [Golang]() | Easy | ✅ ✅ ✅ |
+| 367 | [Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/) | [Golang]() | Easy | ✅ ✅ ✅ |
 
 
 ## Double Pointer
@@ -342,6 +343,7 @@
 ## Classical Problems
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
+| 215 | [Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | [Golang](algorithms/0215.KthLargestElementInAnArray.go/0215.KthLargestElementInAnArray.go) | Medium | ✅ ✅ ✅ |
 | 263 | [Ugly Number](https://leetcode-cn.com/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | ✅ ✅ ✅ |
 | 264 | [Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | ✅ ✅ ✅ |
 | 169 | [Majority Element](https://leetcode-cn.com/problems/majority-element/) | [Golang]() | Easy | ✅ ✅ |

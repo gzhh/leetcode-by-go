@@ -22,16 +22,16 @@ You may assume k is always valid, 1 ≤ k ≤ array's length.
 package main
 
 /**
-解法一：先排序，再找第k大的数
- */
+解法一：先排序，再找第k大的数（堆排序，也可以用快速排序）
+*/
 func minHeapify(nums []int, start int, end int) {
 	dad := start
-	son := dad * 2 + 1
+	son := dad*2 + 1
 	if son > end {
 		return
 	}
 
-	if son + 1 <= end && nums[son] < nums[son + 1] {
+	if son+1 <= end && nums[son] < nums[son+1] {
 		son++
 	}
 
@@ -42,47 +42,25 @@ func minHeapify(nums []int, start int, end int) {
 }
 
 func heapSort(nums []int, length int) {
-	for i := length / 2 - 1; i >= 0; i-- {
-		minHeapify(nums, i, length - 1)
+	for i := length/2 - 1; i >= 0; i-- {
+		minHeapify(nums, i, length-1)
 	}
 	for i := length - 1; i > 0; i-- {
 		nums[0], nums[i] = nums[i], nums[0]
-		minHeapify(nums, 0, i - 1)
+		minHeapify(nums, 0, i-1)
 	}
 }
 
 func findKthLargest(nums []int, k int) int {
 	length := len(nums)
 	heapSort(nums, length)
-	return nums[length - k]
+	return nums[length-k]
 }
 
 /**
 解法二：局部排序
- */
+*/
 
 /**
 解法三：只找topk，不排序
- */
-
-
-
-var sum = 0
-
-func sumNumbers(root *TreeNode) int {
-	var leafSum, level = 0, 0
-	dfs(root, leafSum, level)
-	return sum
-}
-
-func dfs(root *TreeNode, leafSum, level int) {
-	if root == nil {
-		sum += leafSum
-		return
-	}
-	recurse(root.Left, leafSum, level)
-	level++
-	leafSum += 10 * level + root.Val
-	recurse(root.Right, leafSum, level)
-
-}
+*/
