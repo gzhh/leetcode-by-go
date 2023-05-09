@@ -114,7 +114,7 @@
 | 538 | [Convert BST to Greater Tree](https://leetcode.cn/problems/convert-bst-to-greater-tree/) | [Golang]() | Hard | 🔥 |
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) | [Golang]() | Easy | 🌟🌟 |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.cn/problems/convert-sorted-list-to-binary-search-tree/) | [Golang]() | Medium | 🌟🌟 |
-| 701 | [Inesrt Into a Binary Search Tree](https://leetcode.cn/problems/insert-into-a-binary-search-tree/solution/) | [Golang]() | Medium | 🔥 |
+| 701 | [Inesrt Into a Binary Search Tree](https://leetcode.cn/problems/insert-into-a-binary-search-tree/) | [Golang]() | Medium | 🔥 |
 | 450 | [Delete Node in a BST](https://leetcode.cn/problems/delete-node-in-a-bst/) | [Golang]() | Medium | 🔥 |
 | 669 | [Trim a Binary Search Tree](https://leetcode.cn/problems/trim-a-binary-search-tree/) | [Golang]() | Medium | 🔥 |
 | 99 | [Recover Binary Search Tree](https://leetcode.cn/problems/recover-binary-search-tree/) | [Golang]() | Medium | 🔥 |
@@ -145,10 +145,10 @@
 ## Binary Search & Divide and Conquer
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Golang]() | Hard | 🔥 |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.cn/problems/median-of-two-sorted-arrays/) | [Golang]() | Hard | 🔥 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.cn/problems/search-in-rotated-sorted-array/) | [Golang]() | Medium | 🔥 |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array/) | [Golang]() | Medium | 🔥 |
-| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) | [Golang]() | Hard | 🔥 |
+| 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.cn/problems/find-minimum-in-rotated-sorted-array-ii/) | [Golang]() | Hard | 🌟🌟🌟 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Golang]() | Medium | 🔥 |
 | 74 | [Search a 2d-Matrix](https://leetcode.cn/problems/search-a-2d-matrix/) | [Golang]() | Medium | 🔥 |
 | 240 | [Search a 2d-Matrix II](https://leetcode.cn/problems/search-a-2d-matrix-ii/) | [Golang]() | Medium | 🔥 |
@@ -167,6 +167,7 @@
 | 27 | [Remove Element](https://leetcode.cn/problems/remove-element/) | [Golang](algorithms/0027.RemoveElement/0027.RemoveElement.go) | Easy | 🌟 |
 | 11 | [Container with Most Water](https:/leetcode.cn/problems/container-with-most-water/) | [Golang]() | Medium | 🔥 |
 | 75 | [Sort Colors](https://leetcode.cn/problems/sort-colors/) | [Golang]() | Medium | 🔥 |
+| 977 | [Squares of a Sorted Array](https://leetcode.cn/problems/squares-of-a-sorted-array/) | [Golang](algorithms/0977.SquaresOfASortedArray/0977.SquaresOfASortedArray.go) | Easy | 🌟 |
 | 剑指Offer 21 | [调整数组顺序使奇数位于偶数前面](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [Golang]() | Easy | 🌟🌟 |
 | 剑指Offer 57 | [和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/) | [Golang]() | Easy | 🌟🌟 |
 | 剑指Offer 57 II | [和为s的连续正数序列](https://leetcode.cn/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [Golang]() | Easy | 🔥 |
@@ -185,7 +186,8 @@
 ## Depth-first Search
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 200 | [Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [Golang](algorithms/0200.NumberOfIslands/0200.NumberOfIslands.go) | Medium | 🌟🌟 |
+| 200 | [Number of Islands](https://leetcode.cn/problems/number-of-islands/) | [Golang](algorithms/0200.NumberOfIslands/0200.NumberOfIslands.go) | Medium | 🔥 |
+| 695 | [Max Area of Island](https://leetcode.cn/problems/max-area-of-island/) | [Golang](algorithms/) | Medium | 🌟🌟 |
 
 
 ## Back Tracking
@@ -199,12 +201,12 @@
 | 39 | [Combination-sum](https://leetcode.cn/problems/combination-sum/) | [Golang]() | Medium | 🔥 |
 | 40 | [Combination-sum-ii](https://leetcode.cn/problems/combination-sum-ii/) | [Golang]() | Medium | 🌟🌟 |
 |--- | --- | ---| --- | --- |
-| 131 | [Palindrome Partitioning](https://leetcode.cn/problems/palindrome-partitioning/) | [Golang]() | Medium | 🔥 |
+| 131 | [Palindrome Partitioning](https://leetcode.cn/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | 🔥 |
 | 93 | [Restore Ip Addresses](https://leetcode.cn/problems/restore-ip-addresses/) | [Golang]() | Medium | 🔥 |
 |--- | --- | ---| --- | --- |
 | 78 | [Subsets](https://leetcode.cn/problems/subsets/) | [Golang]() | Medium | 🔥 |
 | 90 | [Subsets II](https://leetcode.cn/problems/subsets-ii/) | [Golang]() | Medium | 🔥 |
-| 491 | [Increasing Subsequences](https://leetcode.cn/problems/increasing-subsequences/) | [Golang]() | Medium | 🔥 |
+| 491 | [Increasing Subsequences](https://leetcode.cn/problems/non-decreasing-subsequences/) | [Golang]() | Medium | 🌟🌟🌟 |
 |--- | --- | ---| --- | --- |
 | 46 | [Permutations](https://leetcode.cn/problems/permutations/) | [Golang]() | Medium | 🔥 |
 | 47 | [Permutations II](https://leetcode.cn/problems/permutations-ii/) | [Golang]() | Medium | 🔥 |
@@ -219,7 +221,6 @@
 |--- | --- | ---| --- | --- |
 | 455 | [Assign Cookies](https://leetcode.cn/problems/assign-cookies/) | [Golang]() | Easy | |
 | 376 | [Wiggle Subsequence](https://leetcode.cn/problems/wiggle-subsequence/) | [Golang](algorithms/0376.WiggleSubsequence/0376.WiggleSubsequence.go) | Medium | 🌟🌟 |
-| 53 | [Maximum Subarray](https://leetcode.cn/problems/maximum-subarray/) | [Golang](algorithms/0053.MaximumSubarray/0053.MaximumSubarray.go) | Easy | 🔥 |
 | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-ii/) | [Golang](algorithms/0122.BestTimeToBuyAndSellStockII/0122.BestTimeToBuyAndSellStockII.go) | Easy | 🔥 |
 | 55 | [Jump Game](https://leetcode.cn/problems/jump-game/) | [Golang]() | Easy | 🔥 |
 | 45 | [Jump Game II](https://leetcode.cn/problems/jump-game-ii/) | [Golang]() | Medium | 🔥 |
@@ -244,9 +245,9 @@
 ### Unique Paths & Path Sum
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 62 | [Unique Paths](https://leetcode.cn/problems/unique-paths/) | [Golang](algorithms/0062.UniquePaths/0062.UniquePaths.go) | Medium | 🌟🌟 |
+| 62 | [Unique Paths](https://leetcode.cn/problems/unique-paths/) | [Golang](algorithms/0062.UniquePaths/0062.UniquePaths.go) | Medium | 🔥 |
 | 63 | [Unique Paths II](https://leetcode.cn/problems/unique-paths-ii/) | [Golang](algorithms/0063.UniquePathsII/0063.UniquePathsII.go) | Medium | 🌟🌟 |
-| 64 | [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | 🌟🌟 |
+| 64 | [Minimum Path Sum](https://leetcode.cn/problems/minimum-path-sum/) | [Golang](algorithms/0064.MinimumPathSum/0064.MinimumPathSum.go) | Medium | 🔥 |
 | 剑指Offer 47 | [礼物的最大价值](https://leetcode.cn/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [Golang]() | Medium | 🔥 |
 
 ### Integer Break
@@ -263,25 +264,26 @@
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 416 | [Partition Equal Subset Sum](https://leetcode.cn/problems/partition-equal-subset-sum/) | [Golang](algorithms/0416.PartitionEqualSubsetSum/0416.PartitionEqualSubsetSum.go) | Medium | 🔥 |
-| 1049 | [Last Stone Weight II](https://leetcode.cn/problems/last-stone-weight-ii/) | [Golang](algorithms/1049.LastStoneWeightII/1049.LastStoneWeightII.go) | Medium | 🔥 |
+| 1049 | [Last Stone Weight II](https://leetcode.cn/problems/last-stone-weight-ii/) | [Golang](algorithms/1049.LastStoneWeightII/1049.LastStoneWeightII.go) | Medium | 🌟🌟 |
 | 494 | [Target Sum](https://leetcode.cn/problems/target-sum/) | [Golang](algorithms/0494.TargetSum/0494.TargetSum.go) | Medium | 🔥 |
 | 474 | [Ones and Zeroes](https://leetcode.cn/problems/ones-and-zeroes/) | [Golang](algorithms/0474.OnesAndZeroes/0474.OnesAndZeroes.go) | Medium | 🔥 |
 
 ### [Complete Knapsack Problem](https://en.wikipedia.org/wiki/Knapsack_problem)
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 518 | [Coin Change 2](https://leetcode.cn/problems/coin-change-2/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | 🔥 |
+| 518 | [Coin Change 2](https://leetcode.cn/problems/coin-change-ii/) | [Golang](algorithms/0518.CoinChange2/0518.CoinChange2.go) | Medium | 🔥 |
 | 377 | [Combination Sum IV](https://leetcode.cn/problems/combination-sum-iv/) | [Golang](algorithms/0377.CombinationSumIV/0377.CombinationSumIV.go) | Medium | 🔥 |
 | 322 | [Coin Change](https://leetcode.cn/problems/coin-change/) | [Golang](algorithms/0322.CoinChange/0322.CoinChange2.go) | Medium | 🔥 |
 | 279 | [Perfect Squares](https://leetcode.cn/problems/perfect-squares/) | [Golang](algorithms/0279.PerfectSquares/0279.PerfectSquares.go) | Medium | 🔥 |
 | 139 | [Word Break](https://leetcode.cn/problems/word-break/) | [Golang](algorithms/0139.WordBreak/0139.WordBreak.go) | Medium | 🔥 |
+| 70 | [Climbing Stairs](https://leetcode.cn/problems/climbing-stairs/) | [Golang](algorithms/0070.ClimbingStairs/0070.ClimbingStairs.go) | Easy | 🌟🌟 |
 
 ### House Robber
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 198 | [House Robber](https://leetcode.cn/problems/house-robber/) | [Golang](algorithms/0198.HouseRobber/0198.HouseRobber.go) | Medium | 🌟🌟 |
-| 213 | [House Robber II](https://leetcode.cn/problems/house-robber-ii/) | [Golang](algorithms/0213.HouseRobberII/0213.HouseRobberII.go) | Medium | 🌟🌟 |
-| 337 | [House Robber III](https://leetcode.cn/problems/house-robber-iii/) | [Golang](algorithms/0337.HouseRobberIII/0337.HouseRobberIII.go) | Medium | 🌟🌟 |
+| 198 | [House Robber](https://leetcode.cn/problems/house-robber/) | [Golang](algorithms/0198.HouseRobber/0198.HouseRobber.go) | Medium | 🔥 |
+| 213 | [House Robber II](https://leetcode.cn/problems/house-robber-ii/) | [Golang](algorithms/0213.HouseRobberII/0213.HouseRobberII.go) | Medium | 🔥 |
+| 337 | [House Robber III](https://leetcode.cn/problems/house-robber-iii/) | [Golang](algorithms/0337.HouseRobberIII/0337.HouseRobberIII.go) | Medium | 🔥 |
 
 ### Best Time to Buy and Sell Stock
 | # | Title | Solution | Difficulty | Importantly |
@@ -317,17 +319,15 @@
 | 647 | [Palindromic Substrings](https://leetcode.cn/problems/palindromic-substrings/) | [Golang](algorithms/0647.PalindromicSubstrings/0647.PalindromicSubstrings.go) | Medium | 🔥 |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.cn/problems/longest-palindromic-subsequence/) | [Golang](algorithms/0516.LongestPalindromicSubsequence/0516.LongestPalindromicSubsequence.go) | Medium | 🔥 |
 | 5 | [Longest Palindromic Substring](https://leetcode.cn/problems/longest-palindromic-substring/) | [Golang](algorithms/0005.LongestPalindromicSubstring/0005.LongestPalindromicSubstring.go) | Medium | 🔥 |
-| 131 | [Palindrome Partitioning](https://leetcode.cn/problems/palindrome-partitioning/) | [Golang](algorithms/0131.PalindromePartitioning/0131.PalindromePartitioning.go) | Medium | 🔥 |
-| 132 | [Palindrome Partitioning II](https://leetcode.cn/problems/palindrome-partitioning-ii/) | [Golang](algorithms/0132.PalindromePartitioningII/0132.PalindromePartitioningII.go) | Hard | 🌟🌟 |
 
 ### Extra dp problem
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
-| 91 | [Decode Ways](https://leetcode.cn/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | 🔥 |
+| 91 | [Decode Ways](https://leetcode.cn/problems/decode-ways/) | [Golang](algorithms/0091.DecodeWays/0091.DecodeWays.go) | Medium | 🌟🌟 |
 | 120 | [Triangle](https://leetcode.cn/problems/triangle/) | [Golang](algorithms/0120.Triangle/0120.Triangle.go) | Medium | 🔥 |
-| 152 | [Maximum Product Subarray](https://leetcode.cn/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | 🌟🌟 |
-| 221 | [Maximal Square](https://leetcode.cn/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | 🌟🌟 |
-| 338 | [Counting Bits](https://leetcode.cn/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | 🌟🌟 |
+| 152 | [Maximum Product Subarray](https://leetcode.cn/problems/maximum-product-subarray/) | [Golang](algorithms/0152.MaximumProductSubarray/0152.MaximumProductSubarray.go) | Medium | 🔥 |
+| 221 | [Maximal Square](https://leetcode.cn/problems/maximal-square/) | [Golang](algorithms/0221.MaximalSquare/0221.MaximalSquare.go) | Medium | 🔥 |
+| 338 | [Counting Bits](https://leetcode.cn/problems/counting-bits/) | [Golang](algorithms/0338.CountingBits/0338.CountingBits.go) | Medium | 🔥 |
 
 
 ## Monotonic Stack
@@ -335,16 +335,17 @@
 |--- | --- | ---| --- | --- |
 | 739 | [Daily Temperatures](https://leetcode.cn/problems/daily-temperatures/) | [Golang](algorithms/0739.DailyTemperatures/0739.DailyTemperatures.go) | Medium | 🔥 |
 | 496 | [Next Greater Element I](https://leetcode.cn/problems/next-greater-element-i/) | [Golang](algorithms/0496.NextGreaterElementI/0496.NextGreaterElementI.go) | Easy | 🔥 |
-| 503 | [Next Greater Element II](https://leetcode.cn/problems/next-greater-element-ii/) | [Golang](algorithms/0503.NextGreaterElementII/0503.NextGreaterElementII.go) | Medium | 🔥 |
+| 503 | [Next Greater Element II](https://leetcode.cn/problems/next-greater-element-ii/) | [Golang](algorithms/0503.NextGreaterElementII/0503.NextGreaterElementII.go) | Medium | 🌟🌟 |
 | 42 | [Trapping Rain Water](https://leetcode.cn/problems/trapping-rain-water/) | [Golang](algorithms/0042.TrappingRainWater/0042.TrappingRainWater.go) | Hard | 🔥 |
-| 84 | [Largest Rectangle in Histogram.go](https://leetcode.cn/problems/largest-rectangle-in-histogram/) | [Golang](algorithms/0084.LargestRectangleInHistogram/0084.LargestRectangleInHistogram.go) | Hard | 🔥 |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.cn/problems/largest-rectangle-in-histogram/) | [Golang](algorithms/0084.LargestRectangleInHistogram/0084.LargestRectangleInHistogram.go) | Hard | 🔥 |
+| 85 | [Maximal Rectangle](https://leetcode.cn/problems/maximal-rectangle/) | [Golang](algorithms/0085.MaximalRectangle/0085.MaximalRectangle.go) | Hard | 🔥 |
 
 
 ## Classical Problems
 | # | Title | Solution | Difficulty | Importantly |
 |--- | --- | ---| --- | --- |
 | 215 | [Kth Largest Element in an Array](https://leetcode.cn/problems/kth-largest-element-in-an-array/) | [Golang](algorithms/0215.KthLargestElementInAnArray.go/0215.KthLargestElementInAnArray.go) | Medium | 🔥 |
-| 263 | [Ugly Number](https://leetcode.cn/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | 🔥 |
-| 264 | [Ugly Number II](https://leetcode.cn/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | 🔥 |
-| 169 | [Majority Element](https://leetcode.cn/problems/majority-element/) | [Golang]() | Easy | 🌟🌟 |
+| 263 | [Ugly Number](https://leetcode.cn/problems/ugly-number/) | [Golang](algorithms/0263.UglyNumber/0263.UglyNumber.go) | Easy | 🌟🌟 |
+| 264 | [Ugly Number II](https://leetcode.cn/problems/ugly-number-ii/) | [Golang](algorithms/0264.UglyNumberII/0264.UglyNumberII.go) | Medium | 🌟 |
+| 169 | [Majority Element](https://leetcode.cn/problems/majority-element/) | [Golang]() | Easy | 🔥 |
 
