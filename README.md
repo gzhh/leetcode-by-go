@@ -45,6 +45,7 @@
 | 160 | [Intersection of Two Linked Lists](https://leetcode.cn/problems/intersection-of-two-linked-lists/) | [Golang](algorithms/0160.IntersectionOfTwoLinkedLists/0160.IntersectionOfTwoLinkedLists.go) | Easy | 🔥 |
 | 876 | [Middle of the Linked List](https://leetcode.cn/problems/middle-of-the-linked-list/) | [Golang](algorithms/0876.MiddleOfTheLinkedList/0876.MiddleOfTheLinkedList.go) | Easy | 🌟🌟🌟 |
 | 234 | [Palindrome Linked List](https://leetcode.cn/problems/palindrome-linked-list/) | [Golang](algorithms/0234.PalindromeLinkedList/0234.PalindromeLinkedList.go) | Easy | 🔥 |
+| 146 | [LRU Cache](https://leetcode.cn/problems/lru-cache/) | [Golang]() | Medium | 🔥 |
 | 147 | [Insertion Sort List](https://leetcode.cn/problems/insertion-sort-list/) | [Golang]() | Medium | 🔥 |
 | 148 | [Sort List](https://leetcode.cn/problems/sort-list/) | [Golang]() | Medium | 🔥 |
 | 剑指Offer 18 | [删除链表的节点](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [Golang]() | Easy | 🌟🌟 |
